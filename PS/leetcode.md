@@ -3,3 +3,4 @@
 * [2. Add Two Numbers 문제 풀이 완료(20220918)](https://spjh.tistory.com/42)
 * [3. Longest Substring Without Repeating Characters 문제 풀이 완료(20220921)](https://spjh.tistory.com/44)
 * 557. Reverse Words in a String III 문제 풀이 완료(20220922)
+* 1680. Concatenation of Consecutive Binary Numbers 문제 풀이 완료(20220923)
