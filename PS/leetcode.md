@@ -5,5 +5,5 @@
 * [557. Reverse Words in a String III 문제 풀이 완료(20220922)](https://spjh.tistory.com/46)
 * [1680. Concatenation of Consecutive Binary Numbers 문제 풀이 완료(20220923)](https://spjh.tistory.com/47)
 * [11. Container With Most Water 문제 풀이 완료(20220925)](https://spjh.tistory.com/49)
-* 838. Push Dominoes 문제 풀이 완료(20220927)
+* [838. Push Dominoes 문제 풀이 완료(20220927)](https://spjh.tistory.com/52)
 * [19. Remove Nth Node From End of List 문제 풀이 완료(20220928)]()
