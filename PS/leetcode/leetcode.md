@@ -7,6 +7,6 @@
 - [11. Container With Most Water 문제 풀이 완료(20220925)](https://spjh.tistory.com/49)
 - [838. Push Dominoes 문제 풀이 완료(20220927)](https://spjh.tistory.com/52)
 - [19. Remove Nth Node From End of List 문제 풀이 완료(20220928)](https://spjh.tistory.com/53)
-- [658. Find K Closest Elements 문제 풀이 완료 (20221001)]()
-- [91. Decode Ways 문제 풀이 완료(20221002)]()
-- 1155.Number of Dice Rolls With Target Sum
+- [658. Find K Closest Elements 문제 풀이 완료 (20221001)](https://spjh.tistory.com/54)
+- [91. Decode Ways 문제 풀이 완료(20221002)](https://spjh.tistory.com/55)
+- 1155.Number of Dice Rolls With Target Sum 문제 풀이 완료
