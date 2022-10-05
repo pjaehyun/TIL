@@ -11,3 +11,4 @@
 - [91. Decode Ways 문제 풀이 완료(20221002)](https://spjh.tistory.com/55)
 - 1155.Number of Dice Rolls With Target Sum 문제 풀이 완료(20221002)
 - [112. Path Sum 문제 풀이 완료(20221004)](https://spjh.tistory.com/58)
+- 623\. Add One Row to Tree 문제 풀이 완료(20221005) -> 다른 풀이과정 보면서 풀었음 다시 풀어봐야함
