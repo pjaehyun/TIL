@@ -12,5 +12,5 @@
 - 1155.Number of Dice Rolls With Target Sum 문제 풀이 완료(20221002)
 - [112. Path Sum 문제 풀이 완료(20221004)](https://spjh.tistory.com/58)
 - [623. Add One Row to Tree 문제 풀이 완료(20221005)](https://spjh.tistory.com/59)
-- 16\. 3Sum Closest 문제 풀이 완료(20221009)
-- 653\. Two Sum IV - Input is a BST 문제 풀이 완료(20221009)
+- [16. 3Sum Closest 문제 풀이 완료(20221009)](https://spjh.tistory.com/64)
+- [653. Two Sum IV - Input is a BST 문제 풀이 완료(20221009)](https://spjh.tistory.com/63)
