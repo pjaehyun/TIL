@@ -14,3 +14,5 @@
 - [623. Add One Row to Tree 문제 풀이 완료(20221005)](https://spjh.tistory.com/59)
 - [16. 3Sum Closest 문제 풀이 완료(20221009)](https://spjh.tistory.com/64)
 - [653. Two Sum IV - Input is a BST 문제 풀이 완료(20221009)](https://spjh.tistory.com/63)
+- 1328\. Break a Palindrome 문제 풀이 완료(20221010)
+- 4\. Median of Two Sorted Arrays 문제 풀이 완료(20221010)
