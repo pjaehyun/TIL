@@ -17,3 +17,4 @@
 - 1328\. Break a Palindrome 문제 풀이 완료(20221010)
 - 4\. Median of Two Sorted Arrays 문제 풀이 완료(20221010)
 - 334\. Increasing Triplet Subsequence 문제 풀이 완료(20221011)
+- 976\. Largest Perimeter Triangle 문제 풀이 완료(20221012)
