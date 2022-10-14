@@ -23,3 +23,6 @@
 - [94. Binary Tree Inorder Traversal 문제 풀이 완료(20221013)](https://spjh.tistory.com/71)
 - [107. Binary Tree Level Order Traversal II 문제 풀이 완료(20221013)](https://spjh.tistory.com/72)
 - [455. Assign Cookies 문제 풀이 완료(20221013)](https://spjh.tistory.com/73)
+- 2095\. Delete the Middle Node of a Linked List 문제 풀이 완료(20221014)
+- 144\. Binary Tree Preorder Traversal 문제 풀이 완료(20221014)
+- 145\. Binary Tree Postorder Traversal 문제 풀이 완료(20221014)
