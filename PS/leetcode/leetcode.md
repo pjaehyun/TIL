@@ -30,3 +30,4 @@
 - 98\. Validate Binary Search Tree 문제 풀이 완료(20221016)
 - 1832\. Check if the Sentence Is Pangram 문제 풀이 완료(20221017)
 - 22\. Generate Parentheses 문제 풀이 완료(20221017)
+- 38\. Count and Say 문제 풀이 완료(20221018)
