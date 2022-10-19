@@ -4,7 +4,7 @@
 - 매일 매일 꾸준히 작성하기  
   <br />
 
-# 📌 Problem Solving
+## 📌 Problem Solving
 
 - [Leetcode](https://github.com/pjaehyun/TIL/tree/main/PS/leetcode)
 - [백준](https://github.com/pjaehyun/TIL/tree/main/PS/backjoon)
