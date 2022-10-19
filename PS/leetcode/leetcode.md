@@ -31,3 +31,6 @@
 - 1832\. Check if the Sentence Is Pangram 문제 풀이 완료(20221017)
 - 22\. Generate Parentheses 문제 풀이 완료(20221017)
 - 38\. Count and Say 문제 풀이 완료(20221018)
+- 692\. Top K Frequent Words 문제 풀이 완료(20221019)
+- 118\. Pascal's Triangle 문제 풀이 완료(20221019)
+- 119\. Pascal's Triangle II 문제 풀이 완료(20221019)
