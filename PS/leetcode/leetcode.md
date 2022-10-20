@@ -34,3 +34,4 @@
 - 692\. Top K Frequent Words 문제 풀이 완료(20221019)
 - 118\. Pascal's Triangle 문제 풀이 완료(20221019)
 - 119\. Pascal's Triangle II 문제 풀이 완료(20221019)
+- 12\. Integer to Roman 문제 풀이 완료(20221020)
