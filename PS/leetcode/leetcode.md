@@ -35,3 +35,6 @@
 - 118\. Pascal's Triangle 문제 풀이 완료(20221019)
 - 119\. Pascal's Triangle II 문제 풀이 완료(20221019)
 - 12\. Integer to Roman 문제 풀이 완료(20221020)
+- 215\. Kth Largest Element in an Array 문제 풀이 완료(20221021)
+- 219\. Contains Duplicate II 문제 풀이 완료(20221021)
+- 347\. Top K Frequent Elements 문제 풀이 완료(20221021)
