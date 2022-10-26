@@ -43,4 +43,4 @@
 - [1239. Maximum Length of a Concatenated String with Unique Characters 문제 풀이 완료(20221024)](https://spjh.tistory.com/74)
 - 67\. Add Binary 문제 풀이 완료(20221024)
 - 1662\. Check If Two String Arrays are Equivalent 문제 풀이 완료(20221025)
-- 523\. Continuous Subarray Sum 문제 풀이 완료(20221026)
+- [523. Continuous Subarray Sum 문제 풀이 완료(20221026)](https://spjh.tistory.com/78)
