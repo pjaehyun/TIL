@@ -45,3 +45,4 @@
 - 1662\. Check If Two String Arrays are Equivalent 문제 풀이 완료(20221025)
 - [523. Continuous Subarray Sum 문제 풀이 완료(20221026)](https://spjh.tistory.com/78)
 - 49\. Group Anagrams 문제 풀이 완료(20221028)
+- 2136\. Earliest Possible Day of Full Bloom 문제 풀이 완료(20221029)
