@@ -1,3 +1,5 @@
+# 파이썬 시간복잡도로 풀리지않는 문제로 Pypy3로 제출
+
 from collections import deque
 import sys
 
