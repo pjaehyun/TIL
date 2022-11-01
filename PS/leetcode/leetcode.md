@@ -46,6 +46,6 @@
 - [523. Continuous Subarray Sum 문제 풀이 완료(20221026)](https://spjh.tistory.com/78)
 - [49. Group Anagrams 문제 풀이 완료(20221028)](https://spjh.tistory.com/80)
 - [2136. Earliest Possible Day of Full Bloom 문제 풀이 완료(20221029)](https://spjh.tistory.com/81)
-- 1293\. Shortest Path in a Grid with Obstacles Elimination 문제 풀이 완료(20221030)
+- [1293. Shortest Path in a Grid with Obstacles Elimination 문제 풀이 완료(20221030)](https://spjh.tistory.com/82)
 - 766\. Toeplitz Matrix 문제 풀이 완료(20221031)
 - 1706\. Where Will the Ball Fall 문제 풀이 완료(20221101)
