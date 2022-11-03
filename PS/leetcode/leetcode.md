@@ -52,3 +52,4 @@
 - 46\. Permutations 문제 풀이 완료(20221101)
 - 433\. Minimum Genetic Mutation 문제 풀이 완료(20221102)
 - 435\. Non-overlapping Intervals 문제 풀이 완료(20221102)
+- 2131\. Longest Palindrome by Concatenating Two Letter Words 문제 풀이 완료(20221103)
