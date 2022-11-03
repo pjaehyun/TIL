@@ -48,7 +48,7 @@
 - [2136. Earliest Possible Day of Full Bloom 문제 풀이 완료(20221029)](https://spjh.tistory.com/81)
 - [1293. Shortest Path in a Grid with Obstacles Elimination 문제 풀이 완료(20221030)](https://spjh.tistory.com/82)
 - 766\. Toeplitz Matrix 문제 풀이 완료(20221031)
-- 1706\. Where Will the Ball Fall 문제 풀이 완료(20221101)
+- [1706. Where Will the Ball Fall 문제 풀이 완료(20221101)](https://spjh.tistory.com/83)
 - 46\. Permutations 문제 풀이 완료(20221101)
 - 433\. Minimum Genetic Mutation 문제 풀이 완료(20221102)
 - 435\. Non-overlapping Intervals 문제 풀이 완료(20221102)
