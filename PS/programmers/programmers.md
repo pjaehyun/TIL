@@ -3,3 +3,5 @@
 - [2018 KAKAO BLIND RECRUITMENT - 1차 캐시 문제 풀이 완료(20220918)](https://spjh.tistory.com/41)
 - [2\*N 타일링 문제 풀이 완료(20220920)](https://spjh.tistory.com/45)
 - [피로도 문제 풀이 완료(20221029)](https://spjh.tistory.com/79)
+- 여행경로 문제 풀이 완료(20221103)
+- 위장 문제 풀이 완료(20221103)
