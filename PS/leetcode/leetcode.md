@@ -50,7 +50,7 @@
 - 766\. Toeplitz Matrix 문제 풀이 완료(20221031)
 - [1706. Where Will the Ball Fall 문제 풀이 완료(20221101)](https://spjh.tistory.com/83)
 - [46. Permutations 문제 풀이 완료(20221101)](https://spjh.tistory.com/84)
-- [433. Minimum Genetic Mutation 문제 풀이 완료(20221102)](https://spjh.tistory.com/85)
+- [433. Minimum Genetic Mutation 문제풀이 완료(20221102)](https://spjh.tistory.com/85)
 - 435\. Non-overlapping Intervals 문제 풀이 완료(20221102)
 - 2131\. Longest Palindrome by Concatenating Two Letter Words 문제 풀이 완료(20221103)
 - 345\. Reverse Vowels of a String 문제 풀이 완료(20221104)
