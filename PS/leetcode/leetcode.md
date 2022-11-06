@@ -53,6 +53,6 @@
 - [433. Minimum Genetic Mutation 문제 풀이 완료(20221102)](https://spjh.tistory.com/85)
 - 435\. Non-overlapping Intervals 문제 풀이 완료(20221102)
 - [2131. Longest Palindrome by Concatenating Two Letter Words 문제 풀이 완료(20221103)](https://spjh.tistory.com/86)
-- 345\. Reverse Vowels of a String 문제 풀이 완료(20221104)
+- [345. Reverse Vowels of a String 문제 풀이 완료(20221104)](https://spjh.tistory.com/87)
 - 212\. Word Search II 문제 풀이 완료(20221105)
 - 899\. Orderly Queue 문제 풀이 완료(20221106)
