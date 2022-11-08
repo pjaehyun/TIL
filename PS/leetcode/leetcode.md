@@ -57,3 +57,4 @@
 - 212\. Word Search II 문제 풀이 완료(20221105)
 - 899\. Orderly Queue 문제 풀이 완료(20221106)
 - 1323\. Maximum 69 Number 문제 풀이 완료(20221107)
+- 1544\. Make The String Great 문제 풀이 완료(20221108)
