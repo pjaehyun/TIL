@@ -63,3 +63,4 @@
 - 151\. Reverse Words in a String 문제 풀이 완료(20221113)
 - 947\. Most Stones Removed with Same Row or Column 문제 풀이 완료(20221114)
 - 222\. Count Complete Tree Nodes 문제 풀이 완료(20221115)
+- 374\. Guess Number Higher or Lower 문제 풀이 완료(20221116)
