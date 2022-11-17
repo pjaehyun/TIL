@@ -13,6 +13,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 
+//@Configuration이 없으면 바이트코드를 조작하는 CGLIB 기술이 적용되지 않아서 싱글톤이 보장되지않는다.
 @Configuration
 public class AppConfig {
 
