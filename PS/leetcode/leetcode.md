@@ -66,3 +66,4 @@
 - 374\. Guess Number Higher or Lower 문제 풀이 완료(20221116)
 - 223\. Rectangle Area 문제 풀이 완료(20221117)
 - 263\. Ugly Number 문제 풀이 완료(20221118)
+- 1926\. Nearest Exit from Entrance in Maze 문제 풀이 완료(20221121)
