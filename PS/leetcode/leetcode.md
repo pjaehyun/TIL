@@ -68,3 +68,4 @@
 - 263\. Ugly Number 문제 풀이 완료(20221118)
 - 1926\. Nearest Exit from Entrance in Maze 문제 풀이 완료(20221121)
 - 279\. Perfect Squares 문제 풀이 완료(20221122)
+- 587\. Erect the Fence 문제 풀이 완료(20221122)
