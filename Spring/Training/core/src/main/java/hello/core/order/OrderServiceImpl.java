@@ -8,7 +8,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Component
-@RequiredArgsConstructor
+//@RequiredArgsConstructor
 public class OrderServiceImpl implements OrderService {
 
 //    필드 주입(잘 사용안함) -> 외부에서 변경이 불가능하여 테스트하기 힘들다.
@@ -41,11 +41,11 @@ public class OrderServiceImpl implements OrderService {
     private final MemberRepository memberRepository;
     private final DiscountPolicy discountPolicy;
 
-//    @Autowired
-//    public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) {
-//        this.memberRepository = memberRepository;
-//        this.discountPolicy = discountPolicy;
-//    }
+    @Autowired
+    public OrderServiceImpl(MemberRepository memberRepository, DiscountPolicy discountPolicy) {
+        this.memberRepository = memberRepository;
+        this.discountPolicy = discountPolicy;
+    }
 
     // DIP 위반 -> DiscountPolicy의 인터페이스만 의존하는게 아닌 Fix, Rate등 구현 클래스에도 의존
     // OCP 위반 -> 기능을 확장해서 변경하게되면 클라이언트 코드도 변경해야된다
