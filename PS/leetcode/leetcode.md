@@ -67,7 +67,7 @@
 - 223\. Rectangle Area 문제 풀이 완료(20221117)
 - 263\. Ugly Number 문제 풀이 완료(20221118)
 - 1926\. Nearest Exit from Entrance in Maze 문제 풀이 완료(20221121)
-- 279\. Perfect Squares 문제 풀이 완료(20221122)
+- [279. Perfect Squares 문제 풀이 완료(20221122)](https://spjh.tistory.com/93)
 - 587\. Erect the Fence 문제 풀이 완료(20221122)
 - 36\. Valid Sudoku 문제 풀이 완료(20221123)
 - 79\. Word Search 문제 풀이 완료(20221124)
