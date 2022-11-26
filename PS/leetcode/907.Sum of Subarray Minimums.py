@@ -8,4 +8,4 @@ class Solution:
             j = stack[-1] if stack else -1
             answer[i] = answer[j] + (i - j) * n
             stack.append(i)
-        return sum(answer)
+        return sum(answer) % 1000000007
