@@ -72,3 +72,4 @@
 - 36\. Valid Sudoku 문제 풀이 완료(20221123)
 - 79\. Word Search 문제 풀이 완료(20221124)
 - 907\. Sum of Subarray Minimums 문제 풀이 완료(20221125)
+- 1235\. Maximum Profit in Job Scheduling 문제 풀이 완료(20221126)
