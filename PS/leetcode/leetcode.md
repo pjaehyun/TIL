@@ -76,3 +76,4 @@
 - 446\. Arithmetic Slices II - Subsequence 문제 풀이 완료(20221127)
 - 2225\. Find Players With Zero or One Losses 문제 풀이 완료(20221128)
 - 380\. Insert Delete GetRandom O(1) 문제 풀이 완료(20221129)
+- 1207\. Unique Number of Occurrences 문제 풀이 완료(20221130)
