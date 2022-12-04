@@ -80,3 +80,4 @@
 - 1704\. Determine if String Halves Are Alike 문제 풀이 완료(20221201)
 - 1657\. Determine if Two Strings Are Close 문제 풀이 완료(20221202)
 - 451\. Sort Characters By Frequency 문제 풀이 완료(20221203)
+- 2256\. Minimum Average Difference 문제 풀이 완료(20221204)
