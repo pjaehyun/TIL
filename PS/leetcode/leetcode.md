@@ -81,3 +81,4 @@
 - 1657\. Determine if Two Strings Are Close 문제 풀이 완료(20221202)
 - 451\. Sort Characters By Frequency 문제 풀이 완료(20221203)
 - 2256\. Minimum Average Difference 문제 풀이 완료(20221204)
+- 876\. Middle of the Linked List 문제 풀이 완료(20221205)
