@@ -84,3 +84,4 @@
 - 876\. Middle of the Linked List 문제 풀이 완료(20221205)
 - 328\. Odd Even Linked List 문제 풀이 완료(20221206)
 - 938\. Range Sum of BST 문제 풀이 완료(20221207)
+- 872\. Leaf-Similar Trees 문제 풀이 완료(20221208)
