@@ -90,3 +90,4 @@
 - 124\. Binary Tree Maximum Path Sum 문제 풀이 완료(20221211)
 - 931\. Minimum Falling Path Sum 문제 풀이 완료(20221213)
 - 198\. House Robber 문제 풀이 완료(20221214)
+- 1143\. Longest Common Subsequence 문제 풀이 완료(20221215)
