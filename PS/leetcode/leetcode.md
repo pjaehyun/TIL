@@ -70,7 +70,7 @@
 - [279. Perfect Squares 문제 풀이 완료(20221122)](https://spjh.tistory.com/93)
 - 587\. Erect the Fence 문제 풀이 완료(20221122)
 - 36\. Valid Sudoku 문제 풀이 완료(20221123)
-- 79\. Word Search 문제 풀이 완료(20221124)
+- [79. Word Search 문제 풀이 완료(20221124)](https://spjh.tistory.com/97)
 - 907\. Sum of Subarray Minimums 문제 풀이 완료(20221125)
 - 1235\. Maximum Profit in Job Scheduling 문제 풀이 완료(20221126)
 - 446\. Arithmetic Slices II - Subsequence 문제 풀이 완료(20221127)
