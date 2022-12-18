@@ -92,3 +92,4 @@
 - 198\. House Robber 문제 풀이 완료(20221214)
 - 1143\. Longest Common Subsequence 문제 풀이 완료(20221215)
 - 232\. Implement Queue using Stacks 문제 풀이 완료(202212216)
+- 739\. Daily Temperatures 문제 풀이 완료(20221218)
