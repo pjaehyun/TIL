@@ -102,3 +102,4 @@
 - 2389\. Longest Subsequence With Limited Sum 문제 풀이 완료(20221225)
 - 55\. Jump Game 문제 풀이 완료(20221226)
 - 2279\. Maximum Bags With Full Capacity of Rocks 문제 풀이 완료(20221227)
+- 1962\. Remove Stones to Minimize the Total 문제 풀이 완료(20221228)
