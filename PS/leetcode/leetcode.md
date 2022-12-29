@@ -103,3 +103,4 @@
 - 55\. Jump Game 문제 풀이 완료(20221226)
 - 2279\. Maximum Bags With Full Capacity of Rocks 문제 풀이 완료(20221227)
 - 1962\. Remove Stones to Minimize the Total 문제 풀이 완료(20221228)
+- 1834\. Single-Threaded CPU 문제 풀이 완료(20221229)
