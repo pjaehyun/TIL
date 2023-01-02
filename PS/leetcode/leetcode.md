@@ -107,3 +107,4 @@
 - 797\. All Paths From Source to Target 문제 풀이 완료(20221230)
 - 980\. Unique Paths III 문제 풀이 완료(20221231)
 - 290\. Word Pattern 문제 풀이 완료(20230101)
+- 520\. Detect Capital 문제 풀이 완료(20230102)
