@@ -108,3 +108,4 @@
 - 980\. Unique Paths III 문제 풀이 완료(20221231)
 - 290\. Word Pattern 문제 풀이 완료(20230101)
 - 520\. Detect Capital 문제 풀이 완료(20230102)
+- 944\. Delete Columns to Make Sorted 문제 풀이 완료(20230103)
