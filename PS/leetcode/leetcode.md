@@ -109,3 +109,4 @@
 - 290\. Word Pattern 문제 풀이 완료(20230101)
 - 520\. Detect Capital 문제 풀이 완료(20230102)
 - 944\. Delete Columns to Make Sorted 문제 풀이 완료(20230103)
+- 2244\. Minimum Rounds to Complete All Tasks 문제 풀이 완료(20230104)
