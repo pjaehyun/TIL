@@ -115,3 +115,4 @@
 - 149\. Max Points on a Line 문제 풀이 완료(20230108)
 - 100\. Same Tree 문제 풀이 완료(20230110)
 - 1443\. Minimum Time to Collect All Apples in a Tree 문제 풀이 완료(20230111)
+- 1519\. Number of Nodes in the Sub-Tree With the Same Label 문제 풀이 완료(20230112)
