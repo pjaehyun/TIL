@@ -117,3 +117,4 @@
 - 1443\. Minimum Time to Collect All Apples in a Tree 문제 풀이 완료(20230111)
 - 1519\. Number of Nodes in the Sub-Tree With the Same Label 문제 풀이 완료(20230112)
 - 2246\. Longest Path With Different Adjacent Characters 문제 풀이 완료(20230113)
+- 2278\. Percentage of Letter in String 문제 풀이 완료(20230113)
