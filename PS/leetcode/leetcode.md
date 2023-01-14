@@ -118,3 +118,4 @@
 - 1519\. Number of Nodes in the Sub-Tree With the Same Label 문제 풀이 완료(20230112)
 - [2246. Longest Path With Different Adjacent Characters 문제 풀이 완료(20230113)](https://spjh.tistory.com/98)
 - 2278\. Percentage of Letter in String 문제 풀이 완료(20230113)
+- 1061\. Lexicographically Smallest Equivalent String 문제 풀이 완료(20230114)
