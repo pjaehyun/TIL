@@ -119,3 +119,4 @@
 - [2246. Longest Path With Different Adjacent Characters 문제 풀이 완료(20230113)](https://spjh.tistory.com/98)
 - 2278\. Percentage of Letter in String 문제 풀이 완료(20230113)
 - [1061. Lexicographically Smallest Equivalent String 문제 풀이 완료(20230114)](https://spjh.tistory.com/99)
+- 2421\. Number of Good Paths 문제 풀이 완료(20230115)
