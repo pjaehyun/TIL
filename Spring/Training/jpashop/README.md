@@ -13,7 +13,6 @@ JPA 학습을 위한 간단한 쇼핑몰 토이 프로젝트 by 인프런(김영
 <img width="600" alt="스크린샷 2023-01-20 오후 11 23 35" src="https://user-images.githubusercontent.com/56579736/213723297-27b7bf7a-04a7-44d6-afc7-e07784b4ffc9.png">
 
 <br>
-<br>
 
 ## ERD(Entity Relationship Diagram)
 <img width="600" alt="스크린샷 2023-01-14 오후 9 34 47" src="https://user-images.githubusercontent.com/56579736/213722577-0e8a2d18-f7f9-4eac-810e-3df3f7b306f3.png">
