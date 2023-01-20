@@ -125,3 +125,4 @@
 - 918\. Maximum Sum Circular Subarray 문제 풀이 완료(20230118)
 - 974\. Subarray Sums Divisible by K 문제 풀이 완료(20230119)
 - 560\. Subarray Sum Equals K 문제 풀이 완료(20230119)
+- 491\. Non-decreasing Subsequences 문제 풀이 완료(20230120)
