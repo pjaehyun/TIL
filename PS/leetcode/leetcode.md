@@ -127,3 +127,4 @@
 - 560\. Subarray Sum Equals K 문제 풀이 완료(20230119)
 - 491\. Non-decreasing Subsequences 문제 풀이 완료(20230120)
 - 93\. Restore IP Addresses 문제 풀이 완료(20230121)
+- 131\. Palindrome Partitioning 문제 풀이 완료(20230122)
