@@ -128,4 +128,4 @@
 - 491\. Non-decreasing Subsequences 문제 풀이 완료(20230120)
 - 93\. Restore IP Addresses 문제 풀이 완료(20230121)
 - 131\. Palindrome Partitioning 문제 풀이 완료(20230122)
-- 997\. Find the Town Judge 문제 풀이 완료(20230113)
+- 997\. Find the Town Judge 문제 풀이 완료(20230123)
