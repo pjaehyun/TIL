@@ -27,19 +27,19 @@ JPA 학습을 위한 간단한 쇼핑몰 토이 프로젝트 by 인프런(김영
 
 <div>
 <p>회원</p>
-<img width="508" alt="스크린샷 2023-01-27 오후 11 41 46" src="https://user-images.githubusercontent.com/56579736/215114073-3a13fade-343e-4448-a1bc-415093428281.png">
-<img width="500" alt="스크린샷 2023-01-27 오후 11 42 49" src="https://user-images.githubusercontent.com/56579736/215114062-f10cea63-e806-4f06-a225-72ce0ef0ebca.png">
+<img width="405" alt="스크린샷 2023-01-27 오후 11 41 46" src="https://user-images.githubusercontent.com/56579736/215114073-3a13fade-343e-4448-a1bc-415093428281.png">
+<img width="400" alt="스크린샷 2023-01-27 오후 11 42 49" src="https://user-images.githubusercontent.com/56579736/215114062-f10cea63-e806-4f06-a225-72ce0ef0ebca.png">
 </div>
 
 <div>
 <p>상품</p>
-<img width="503" alt="스크린샷 2023-01-27 오후 11 42 12" src="https://user-images.githubusercontent.com/56579736/215114071-36d5dce2-7bfb-43b7-a129-9d9240253dc9.png">
-<img width="500" alt="스크린샷 2023-01-27 오후 11 43 11" src="https://user-images.githubusercontent.com/56579736/215114060-de53f80d-504a-422d-8f4a-1cec364005cb.png">
+<img width="403" alt="스크린샷 2023-01-27 오후 11 42 12" src="https://user-images.githubusercontent.com/56579736/215114071-36d5dce2-7bfb-43b7-a129-9d9240253dc9.png">
+<img width="400" alt="스크린샷 2023-01-27 오후 11 43 11" src="https://user-images.githubusercontent.com/56579736/215114060-de53f80d-504a-422d-8f4a-1cec364005cb.png">
 </div>
 
 <div>
 <p>주문</p>
-<img width="500" alt="스크린샷 2023-01-27 오후 11 42 35" src="https://user-images.githubusercontent.com/56579736/215114068-ef00ffdf-038e-4810-bd45-4cba45369649.png">
-<img width="677" alt="스크린샷 2023-01-27 오후 11 43 32" src="https://user-images.githubusercontent.com/56579736/215114056-e3d3a8f3-0f4f-4423-8833-a3766e0c4d7b.png">
+<img width="340" alt="스크린샷 2023-01-27 오후 11 42 35" src="https://user-images.githubusercontent.com/56579736/215114068-ef00ffdf-038e-4810-bd45-4cba45369649.png">
+<img width="460" alt="스크린샷 2023-01-27 오후 11 43 32" src="https://user-images.githubusercontent.com/56579736/215114056-e3d3a8f3-0f4f-4423-8833-a3766e0c4d7b.png">
 </div>
 
