@@ -134,3 +134,4 @@
 - 2359\. Find Closest Node to Given Two Nodes 문제 풀이 완료(20230125)
 - 787\. Cheapest Flights Within K Stops 문제 풀이 완료(20230126)
 - 472\. Concatenated Words 문제 풀이 완료(20230127)
+- 352\. Data Stream as Disjoint Intervals 문제 풀이 완료(20230128)
