@@ -135,3 +135,4 @@
 - 787\. Cheapest Flights Within K Stops 문제 풀이 완료(20230126)
 - 472\. Concatenated Words 문제 풀이 완료(20230127)
 - 352\. Data Stream as Disjoint Intervals 문제 풀이 완료(20230128)
+- 460\. LFU Cache 문제 풀이 완료(20230129)
