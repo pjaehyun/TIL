@@ -138,3 +138,4 @@
 - 460\. LFU Cache 문제 풀이 완료(20230129)
 - 1137\. N-th Tribonacci Number 문제 풀이 완료(20230130)
 - 1626\. Best Team With No Conflicts 문제 풀이 완료(20230131)
+- 1071\. Greatest Common Divisor of Strings 문제 풀이 완료(20230201)
