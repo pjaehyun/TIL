@@ -140,3 +140,4 @@
 - 1626\. Best Team With No Conflicts 문제 풀이 완료(20230131)
 - 1071\. Greatest Common Divisor of Strings 문제 풀이 완료(20230201)
 - 953\. Verifying an Alien Dictionary 문제 풀이 완료(20230202)
+- 6\. Zigzag Conversion 문제 풀이 완료(20230203)
