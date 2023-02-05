@@ -143,3 +143,4 @@
 - 6\. Zigzag Conversion 문제 풀이 완료(20230203)
 - 567\. Permutation in String 문제 풀이 완료(20230204)
 - 438\. Find All Anagrams in a String 문제 풀이 완료(20230205)
+- 83\. Remove Duplicates from Sorted List 문제 풀이 완료(20230206)
