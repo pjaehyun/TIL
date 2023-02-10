@@ -147,3 +147,4 @@
 - 904\. Fruit Into Baskets 문제 풀이 완료(20230207)
 - 45\. Jump Game II 문제 풀이 완료(20230208)
 - 2306\. Naming a Company 문제 풀이 완료(20230209)
+- 1162\. As Far from Land as Possible 문제 풀이 완료(20230210)
