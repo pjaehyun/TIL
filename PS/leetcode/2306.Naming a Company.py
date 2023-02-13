@@ -1,3 +1,4 @@
+# 완전탐색으로 풀었을 때 시간초과 남(다른 풀이 참고하여 문제 해결)
 class Solution:
     def distinctNames(self, ideas: List[str]) -> int:
         answer = 0
