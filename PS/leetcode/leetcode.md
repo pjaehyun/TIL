@@ -150,3 +150,4 @@
 - 1162\. As Far from Land as Possible 문제 풀이 완료(20230210)
 - 1129\. Shortest Path with Alternating Colors 문제 풀이 완료(20230211)
 - 2477\. Minimum Fuel Cost to Report to the Capital 문제 풀이 완료(20230212)
+- 1523\. Count Odd Numbers in an Interval Range 문제 풀이 완료(20230213)
