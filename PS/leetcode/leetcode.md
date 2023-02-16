@@ -153,3 +153,4 @@
 - 1523\. Count Odd Numbers in an Interval Range 문제 풀이 완료(20230213)
 - 1470\. Shuffle the Array 문제 풀이 완료(20230214)
 - 989\. Add to Array-Form of Integer 문제 풀이 완료(20230215)
+- 104\. Maximum Depth of Binary Tree 문제 풀이 완료(20230216)
