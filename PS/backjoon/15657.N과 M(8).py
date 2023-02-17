@@ -1,0 +1,19 @@
+import sys, math
+sys.setrecursionlimit(1000000)
+input = sys.stdin.readline
+
+N, M = map(int, input().split())
+nums = sorted(list(map(int, input().split())))
+
+seq = []
+
+def backtracking(n):
+    if len(seq) == M:
+        print(*seq)
+        return
+    
+    for i in range(n, N):
+        seq.append(nums[i])
+        backtracking(i)
+        seq.pop()
+backtracking(0)
