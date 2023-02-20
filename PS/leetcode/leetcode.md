@@ -157,3 +157,4 @@
 - 783\. Minimum Distance Between BST Nodes 문제 풀이 완료(20230217)
 - 226\. Invert Binary Tree 문제 풀이 완료(20230218)
 - 103\. Binary Tree Zigzag Level Order Traversal 문제 풀이 완료(20230219)
+- 35\. Search Insert Position 문제 풀이 완료(20230220)
