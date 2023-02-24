@@ -161,3 +161,4 @@
 - 540\. Single Element in a Sorted Array 문제 풀이 완료(20230221)
 - 1011\. Capacity To Ship Packages Within D Days 문제 풀이 완료(20230222)
 - 502\. IPO 문제 풀이 완료(20230223)
+- 1675\. Minimize Deviation in Array 문제 풀이 완료(20230224)
