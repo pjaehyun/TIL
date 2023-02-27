@@ -164,3 +164,4 @@
 - 1675\. Minimize Deviation in Array 문제 풀이 완료(20230224)
 - 121\. Best Time to Buy and Sell Stock 문제 풀이 완료(20230225)
 - 72\. Edit Distance 문제 풀이 완료(20230226)
+- 427\. Construct Quad Tree 문제 풀이 완료(20230227)
