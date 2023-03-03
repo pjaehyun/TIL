@@ -168,3 +168,4 @@
 - 652\. Find Duplicate Subtrees 문제 풀이 완료(20230228)
 - 912\. Sort an Array 문제 풀이 완료(20230301)
 - 443\. String Compression 문제 풀이 완료(20230302)
+- 28\. Find the Index of the First Occurrence in a String 문제 풀이 완료(20230303)
