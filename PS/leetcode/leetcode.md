@@ -169,3 +169,4 @@
 - 912\. Sort an Array 문제 풀이 완료(20230301)
 - 443\. String Compression 문제 풀이 완료(20230302)
 - 28\. Find the Index of the First Occurrence in a String 문제 풀이 완료(20230303)
+- 2444\. Count Subarrays With Fixed Bounds 문제 풀이 완료(20230304)
