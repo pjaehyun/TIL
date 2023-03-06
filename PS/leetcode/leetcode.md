@@ -171,3 +171,4 @@
 - 28\. Find the Index of the First Occurrence in a String 문제 풀이 완료(20230303)
 - 2444\. Count Subarrays With Fixed Bounds 문제 풀이 완료(20230304)
 - 1345\. Jump Game IV 문제 풀이 완료(20230305)
+- 1539\. Kth Missing Positive Number 문제 풀이 완료(20230306)
