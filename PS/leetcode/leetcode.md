@@ -173,3 +173,4 @@
 - 1345\. Jump Game IV 문제 풀이 완료(20230305)
 - 1539\. Kth Missing Positive Number 문제 풀이 완료(20230306)
 - 2187\. Minimum Time to Complete Trips 문제 풀이 완료(20230307)
+- 875\. Koko Eating Bananas 문제 풀이 완료(20230308)
