@@ -180,3 +180,4 @@
 - 110\. Balanced Binary Tree 문제 풀이 완료(20230311)
 - 101\. Symmetric Tree 문제 풀이 완료(20230313)
 - 129\. Sum Root to Leaf Numbers 문제 풀이 완료(20230314)
+- 958\. Check Completeness of a Binary Tree 문제 풀이 완료(20230315)
