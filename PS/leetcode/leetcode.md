@@ -183,3 +183,4 @@
 - 958\. Check Completeness of a Binary Tree 문제 풀이 완료(20230315)
 - 106\. Construct Binary Tree from Inorder and Postorder Traversal 문제 풀이 완료(20230316)
 - 208\. Implement Trie (Prefix Tree) 문제 풀이 완료(20230317)
+- 1472\. Design Browser History 문제 풀이 완료(20230318)
