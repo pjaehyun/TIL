@@ -186,3 +186,4 @@
 - 1472\. Design Browser History 문제 풀이 완료(20230318)
 - 211\. Design Add and Search Words Data Structure 문제 풀이 완료(20230319)
 - 605\. Can Place Flowers 문제 풀이 완료(20230320)
+- 2348\. Number of Zero-Filled Subarrays 문제 풀이 완료(20230321)
