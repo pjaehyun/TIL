@@ -189,3 +189,4 @@
 - 2348\. Number of Zero-Filled Subarrays 문제 풀이 완료(20230321)
 - 2492\. Minimum Score of a Path Between Two Cities 문제 풀이 완료(20230322)
 - 1319\. Number of Operations to Make Network Connected 문제 풀이 완료(20230323)
+- 1466\. Reorder Routes to Make All Paths Lead to the City Zero 문제 풀이 완료(20230324)
