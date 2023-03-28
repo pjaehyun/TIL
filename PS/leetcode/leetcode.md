@@ -193,3 +193,4 @@
 - 2316\. Count Unreachable Pairs of Nodes in an Undirected Graph 문제 풀이 완료(20230325)
 - 2360\. Longest Cycle in a Graph 문제 풀이 완료(20230326)
 - 64\. Minimum Path Sum 문제 풀이 완료(20230327)
+- 983\. Minimum Cost For Tickets 문제 풀이 완료(20230328)
