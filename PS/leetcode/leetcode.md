@@ -196,3 +196,4 @@
 - 983\. Minimum Cost For Tickets 문제 풀이 완료(20230328)
 - 1402\. Reducing Dishes 문제 풀이 완료(20230329)
 - 87\. Scramble String 문제 풀이 완료(20230330)
+- 498\. Diagonal Traverse 문제 풀이 완료(20230330)
