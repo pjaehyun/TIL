@@ -197,3 +197,8 @@
 - 1402\. Reducing Dishes 문제 풀이 완료(20230329)
 - 87\. Scramble String 문제 풀이 완료(20230330)
 - 498\. Diagonal Traverse 문제 풀이 완료(20230330)
+- 704\. Binary Search 문제 풀이 완료(20230401)
+- 109\. Convert Sorted List to Binary Search Tree 문제 풀이 완료(20230311)ㅜㄴ
+- 109\. Convert Sorted List to Binary Search Tree 문제 풀이 완료(20230311)ㅈ
+- 109\. Convert Sorted List to Binary Search Tree 문제 풀이 완료(20230311)
+- 109\. Convert Sorted List to Binary Search Tree 문제 풀이 완료(20230311)
