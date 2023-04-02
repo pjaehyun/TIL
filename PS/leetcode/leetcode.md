@@ -200,3 +200,4 @@
 - 1444\. Number of Ways of Cutting a Pizza 문제 풀이 완료(20230331)
 - 704\. Binary Search 문제 풀이 완료(20230401)
 - 2300\. Successful Pairs of Spells and Potions 문제 풀이 완료(20230402)
+- 2607\. Make K-Subarray Sums Equal 문제 풀이 완료(20230402)
