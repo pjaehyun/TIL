@@ -201,3 +201,4 @@
 - 704\. Binary Search 문제 풀이 완료(20230401)
 - 2300\. Successful Pairs of Spells and Potions 문제 풀이 완료(20230402)
 - 2607\. Make K-Subarray Sums Equal 문제 풀이 완료(20230402)
+- 881\. Boats to Save People 문제 풀이 완료(20230403)
