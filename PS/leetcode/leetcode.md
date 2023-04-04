@@ -203,3 +203,4 @@
 - 2607\. Make K-Subarray Sums Equal 문제 풀이 완료(20230402)
 - 881\. Boats to Save People 문제 풀이 완료(20230403)
 - 509\. Fibonacci Number 문제 풀이 완료(20230403)
+- 2405\. Optimal Partition of String 문제 풀이 완료(20230404)
