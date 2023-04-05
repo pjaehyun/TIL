@@ -207,3 +207,4 @@
 - 746\. Min Cost Climbing Stairs 문제 풀이 완료(20230404)
 - 2439\. Minimize Maximum of Array 문제 풀이 완료(20230405)
 - 213\. House Robber II 문제 풀이 완료(20230405)
+- 740\. Delete and Earn 문제 풀이 완료(20230405)
