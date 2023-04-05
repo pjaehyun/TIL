@@ -205,3 +205,4 @@
 - 509\. Fibonacci Number 문제 풀이 완료(20230403)
 - 2405\. Optimal Partition of String 문제 풀이 완료(20230404)
 - 746\. Min Cost Climbing Stairs 문제 풀이 완료(20230404)
+- 2439\. Minimize Maximum of Array 문제 풀이 완료(20230405)
