@@ -209,3 +209,4 @@
 - 213\. House Robber II 문제 풀이 완료(20230405)
 - 740\. Delete and Earn 문제 풀이 완료(20230405)
 - 1254\. Number of Closed Islands 문제 풀이 완료(20230406)
+- 1020\. Number of Enclaves 문제 풀이 완료(20230407)
