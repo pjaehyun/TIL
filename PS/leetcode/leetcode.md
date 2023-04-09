@@ -212,3 +212,4 @@
 - 1020\. Number of Enclaves 문제 풀이 완료(20230407)
 - 133\. Clone Graph 문제 풀이 완료(20230408)
 - 53\. Maximum Subarray 문제 풀이 완료(20230408)
+- 1857\. Largest Color Value in a Directed Graph 문제 풀이 완료(20230409)
