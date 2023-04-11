@@ -213,3 +213,4 @@
 - 133\. Clone Graph 문제 풀이 완료(20230408)
 - 53\. Maximum Subarray 문제 풀이 완료(20230408)
 - 1857\. Largest Color Value in a Directed Graph 문제 풀이 완료(20230409)
+- 2390\. Removing Stars From a String 문제 풀이 완료(20230411)
