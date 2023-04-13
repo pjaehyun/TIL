@@ -216,3 +216,4 @@
 - 2390\. Removing Stars From a String 문제 풀이 완료(20230411)
 - 71\. Simplify Path 문제 풀이 완료(20230412)
 - 152\. Maximum Product Subarray 문제 풀이 완료(20230412)
+- 946\. Validate Stack Sequences 문제 풀이 완료(20230413)
