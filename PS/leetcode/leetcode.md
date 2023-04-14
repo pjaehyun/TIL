@@ -217,3 +217,4 @@
 - 71\. Simplify Path 문제 풀이 완료(20230412)
 - 152\. Maximum Product Subarray 문제 풀이 완료(20230412)
 - 946\. Validate Stack Sequences 문제 풀이 완료(20230413)
+- 516\. Longest Palindromic Subsequence 문제 풀이 완료(20230414)
