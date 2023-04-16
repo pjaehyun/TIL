@@ -219,3 +219,4 @@
 - 946\. Validate Stack Sequences 문제 풀이 완료(20230413)
 - 516\. Longest Palindromic Subsequence 문제 풀이 완료(20230414)
 - 2218\. Maximum Value of K Coins From Piles 문제 풀이 완료(20230415)
+- 1639\. Number of Ways to Form a Target String Given a Dictionary 문제 풀이 완료(20230416)
