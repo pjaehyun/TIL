@@ -224,3 +224,4 @@
 - 1768\. Merge Strings Alternately 문제 풀이 완료(20230418)
 - 452\. Minimum Number of Arrows to Burst Balloons 문제 풀이 완료(20230418)
 - 1372\. Longest ZigZag Path in a Binary Tree 문제 풀이 완료(20230419)
+- 662\. Maximum Width of Binary Tree 문제 풀이 완료(20230420)
