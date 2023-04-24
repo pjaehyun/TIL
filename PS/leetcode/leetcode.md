@@ -228,3 +228,4 @@
 - 879\. Profitable Schemes 문제 풀이 완료(20230421)
 - 1312\. Minimum Insertion Steps to Make a String Palindrome 문제 풀이 완료(20230422)
 - 1416\. Restore The Array 문제 풀이 완료(20230423)
+- 1046\. Last Stone Weight 문제 풀이 완료(20230424)
