@@ -234,3 +234,4 @@
 - 319\. Bulb Switcher 문제 풀이 와뇰(20230428)
 - 839\. Similar String Groups 문제 풀이 완료(20230428)
 - 1697\. Checking Existence of Edge Length Limited Paths 문제 풀이 완료(20230429)
+- 1579\. Remove Max Number of Edges to Keep Graph Fully Traversable 문제 풀이 완료(20230430)
