@@ -236,3 +236,4 @@
 - 1697\. Checking Existence of Edge Length Limited Paths 문제 풀이 완료(20230429)
 - 1579\. Remove Max Number of Edges to Keep Graph Fully Traversable 문제 풀이 완료(20230430)
 - 1491\. Average Salary Excluding the Minimum and Maximum Salary 문제 풀이 완료(20230501)
+- 23\. Merge k Sorted Lists 문제 풀이 완료(20230502)
