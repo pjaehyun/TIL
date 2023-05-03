@@ -238,3 +238,4 @@
 - 1491\. Average Salary Excluding the Minimum and Maximum Salary 문제 풀이 완료(20230501)
 - 23\. Merge k Sorted Lists 문제 풀이 완료(20230502)
 - 1822\. Sign of the Product of an Array 문제 풀이 완료(202305020)
+- 2215\. Find the Difference of Two Arrays 문제 풀이 완료(20230503)
