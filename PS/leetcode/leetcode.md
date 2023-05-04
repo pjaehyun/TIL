@@ -239,3 +239,4 @@
 - 23\. Merge k Sorted Lists 문제 풀이 완료(20230502)
 - 1822\. Sign of the Product of an Array 문제 풀이 완료(202305020)
 - 2215\. Find the Difference of Two Arrays 문제 풀이 완료(20230503)
+- 649\. Dota2 Senate 문제 풀이 완료(20230504)
