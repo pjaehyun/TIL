@@ -241,3 +241,4 @@
 - 2215\. Find the Difference of Two Arrays 문제 풀이 완료(20230503)
 - 649\. Dota2 Senate 문제 풀이 완료(20230504)
 - 1456\. Maximum Number of Vowels in a Substring of Given Length 문제 풀이 완료(20230505)
+- 1498\. Number of Subsequences That Satisfy the Given Sum Condition 문제 풀이 완료(20230506)
