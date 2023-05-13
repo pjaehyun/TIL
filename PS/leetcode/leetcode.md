@@ -248,3 +248,4 @@
 - 59\. Spiral Matrix II 문제 풀이 완료(20230510)
 - 1035\. Uncrossed Lines 문제 풀이 완료(20230511)
 - 2140\. Solving Questions With Brainpower 문제 풀이 완료(20230512)
+- 2466\. Count Ways To Build Good Strings 문제 풀이 완료(20230513)
