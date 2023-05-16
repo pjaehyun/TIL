@@ -251,3 +251,4 @@
 - 2466\. Count Ways To Build Good Strings 문제 풀이 완료(20230513)
 - 1799\. Maximize Score After N Operations 문제 풀이 완료(20230514)
 - 1721\. Swapping Nodes in a Linked List 문제 풀이 완료(20230515)
+- 24\. Swap Nodes in Pairs 문제 풀이 완료(20230516)
