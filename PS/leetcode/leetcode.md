@@ -252,3 +252,4 @@
 - 1799\. Maximize Score After N Operations 문제 풀이 완료(20230514)
 - 1721\. Swapping Nodes in a Linked List 문제 풀이 완료(20230515)
 - 24\. Swap Nodes in Pairs 문제 풀이 완료(20230516)
+- 2130\. Maximum Twin Sum of a Linked List 문제 풀이 완료(20230517)
