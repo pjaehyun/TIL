@@ -256,3 +256,4 @@
 - 1557\. Minimum Number of Vertices to Reach All Nodes 문제 풀이 완료(20230518)
 - 785\. Is Graph Bipartite? 문제 풀이 완료(20230519)
 - 399\. Evaluate Division 문제 풀이 완료(20230520)
+- 934\. Shortest Bridge 문제 풀이 완료(20230521)
