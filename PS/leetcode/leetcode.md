@@ -259,3 +259,4 @@
 - 934\. Shortest Bridge 문제 풀이 완료(20230521)
 - 703\. Kth Largest Element in a Stream 문제 풀이 완료(20230523)
 - 2542\. Maximum Subsequence Score 문제 풀이 완료(20230524)
+- 837\. New 21 Game 문제 풀이 완료(20230525)
