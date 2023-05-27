@@ -261,3 +261,4 @@
 - 2542\. Maximum Subsequence Score 문제 풀이 완료(20230524)
 - 837\. New 21 Game 문제 풀이 완료(20230525)
 - 1140\. Stone Game II 문제 풀이 완료(20230526)
+- 1406\. Stone Game III 문제 풀이 완료(20230527)
