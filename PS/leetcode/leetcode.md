@@ -262,3 +262,4 @@
 - 837\. New 21 Game 문제 풀이 완료(20230525)
 - 1140\. Stone Game II 문제 풀이 완료(20230526)
 - 1406\. Stone Game III 문제 풀이 완료(20230527)
+- 1547\. Minimum Cost to Cut a Stick 문제 풀이 완료(20230528)
