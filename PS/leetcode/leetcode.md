@@ -265,3 +265,4 @@
 - 1547\. Minimum Cost to Cut a Stick 문제 풀이 완료(20230528)
 - 1603\. Design Parking System 문제 풀이 완료(20230529)
 - 705\. Design HashSet 문제 풀이 완료(20230530)
+- 1396\. Design Underground System 문제 풀이 완료(20230531)
