@@ -270,3 +270,4 @@
 - 2101\. Detonate the Maximum Bombs 문제 풀이 완료(20230602)
 - 1376\. Time Needed to Inform All Employees 문제 풀이 완료(20230603)
 - 547\. Number of Provinces 문제 풀이 완료(20230604)
+- 1232\. Check If It Is a Straight Line 문제 풀이 완료(20230605)
