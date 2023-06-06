@@ -271,3 +271,4 @@
 - 1376\. Time Needed to Inform All Employees 문제 풀이 완료(20230603)
 - 547\. Number of Provinces 문제 풀이 완료(20230604)
 - 1232\. Check If It Is a Straight Line 문제 풀이 완료(20230605)
+- 1502\. Can Make Arithmetic Progression From Sequence 문제 풀이 완료(20230606)
