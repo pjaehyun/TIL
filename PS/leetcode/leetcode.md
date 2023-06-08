@@ -273,3 +273,4 @@
 - 1232\. Check If It Is a Straight Line 문제 풀이 완료(20230605)
 - 1502\. Can Make Arithmetic Progression From Sequence 문제 풀이 완료(20230606)
 - 1318\. Minimum Flips to Make a OR b Equal to c 문제 풀이 완료(20230607)
+- 1351\. Count Negative Numbers in a Sorted Matrix 문제 풀이 완료(20230608)
