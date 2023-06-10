@@ -275,3 +275,4 @@
 - 1318\. Minimum Flips to Make a OR b Equal to c 문제 풀이 완료(20230607)
 - 1351\. Count Negative Numbers in a Sorted Matrix 문제 풀이 완료(20230608)
 - 744\. Find Smallest Letter Greater Than Target 문제 풀이 완료(20230609)
+- 1802\. Maximum Value at a Given Index in a Bounded Array 문제 풀이 완료(20230610)
