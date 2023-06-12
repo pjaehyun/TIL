@@ -277,3 +277,4 @@
 - 744\. Find Smallest Letter Greater Than Target 문제 풀이 완료(20230609)
 - 1802\. Maximum Value at a Given Index in a Bounded Array 문제 풀이 완료(20230610)
 - 1146\. Snapshot Array 문제 풀이 완료(20230611)
+- 228\. Summary Ranges 문제 풀이 완료(20230612)
