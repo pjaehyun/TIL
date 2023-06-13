@@ -278,3 +278,4 @@
 - 1802\. Maximum Value at a Given Index in a Bounded Array 문제 풀이 완료(20230610)
 - 1146\. Snapshot Array 문제 풀이 완료(20230611)
 - 228\. Summary Ranges 문제 풀이 완료(20230612)
+- 2352\. Equal Row and Column Pairs 문제 풀이 완료(20230613)
