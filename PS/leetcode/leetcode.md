@@ -279,3 +279,4 @@
 - 1146\. Snapshot Array 문제 풀이 완료(20230611)
 - 228\. Summary Ranges 문제 풀이 완료(20230612)
 - 2352\. Equal Row and Column Pairs 문제 풀이 완료(20230613)
+- 530\. Minimum Absolute Difference in BST 문제 풀이 완료(20230614)
