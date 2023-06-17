@@ -1,3 +1,4 @@
+# 다른 풀이 참고해서 문제 해결
 class Solution:
     def makeArrayIncreasing(self, arr1: List[int], arr2: List[int]) -> int:
         arr2.sort()
