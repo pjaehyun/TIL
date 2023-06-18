@@ -283,3 +283,4 @@
 - 1161\. Maximum Level Sum of a Binary Tree 문제 풀이 완료(20230615)
 - 1569\. Number of Ways to Reorder Array to Get Same BST 문제 풀이 완료(20230616)
 - 1187\. Make Array Strictly Increasing 문제 풀이 완료(20230617)
+- 2328\. Number of Increasing Paths in a Grid 문제 풀이 완료(20230618)
