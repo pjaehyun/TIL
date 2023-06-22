@@ -287,3 +287,4 @@
 - 1732\. Find the Highest Altitude 문제 풀이 완료(20230619)
 - 2090\. K Radius Subarray Averages 문제 풀이 완료(20230620)
 - 2448\. Minimum Cost to Make Array Equal 문제 풀이 완료(20230621)
+- 714\. Best Time to Buy and Sell Stock with Transaction Fee 문제 풀이 완료(20230622)
