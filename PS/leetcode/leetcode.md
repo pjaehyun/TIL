@@ -291,3 +291,4 @@
 - 1027\. Longest Arithmetic Subsequence 문제 풀이 완료(20230623)
 - 956\. Tallest Billboard 문제 풀이 완료(20230624)
 - 1575\. Count All Possible Routes 문제 풀이 완료(20230625)
+- 2462\. Total Cost to Hire K Workers 문제 풀이 완료(20230626)
