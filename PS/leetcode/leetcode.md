@@ -296,3 +296,4 @@
 - 1514\. Path with Maximum Probability 문제 풀이 완료(20230628)
 - 864\. Shortest Path to Get All Keys 문제 풀이 완료(20230629)
 - 1970\. Last Day Where You Can Still Cross 문제 풀이 완료(20230630)
+- 2305\. Fair Distribution of Cookies 문제 풀이 완료(20230701)
