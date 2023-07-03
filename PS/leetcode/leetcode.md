@@ -298,3 +298,4 @@
 - 1970\. Last Day Where You Can Still Cross 문제 풀이 완료(20230630)
 - 2305\. Fair Distribution of Cookies 문제 풀이 완료(20230701)
 - 1601\. Maximum Number of Achievable Transfer Requests 문제 풀이 완료(20230702)
+- 859\. Buddy Strings 문제 풀이 완료(20230703)
