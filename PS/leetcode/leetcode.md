@@ -300,3 +300,4 @@
 - 1601\. Maximum Number of Achievable Transfer Requests 문제 풀이 완료(20230702)
 - 859\. Buddy Strings 문제 풀이 완료(20230703)
 - 137\. Single Number II 문제 풀이 완료(20230704)
+- 1493\. Longest Subarray of 1's After Deleting One Element 문제 풀이 완료(20230705)
