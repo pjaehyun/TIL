@@ -303,3 +303,4 @@
 - 1493\. Longest Subarray of 1's After Deleting One Element 문제 풀이 완료(20230705)
 - 209\. Minimum Size Subarray Sum 문제 풀이 완료(20230706)
 - 2024\. Maximize the Confusion of an Exam 문제 풀이 완료(20230707)
+- 2272\. Substring With Largest Variance 문제 풀이 완료(20230709)
