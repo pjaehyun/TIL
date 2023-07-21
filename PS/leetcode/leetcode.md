@@ -321,3 +321,4 @@
 - 164\. Maximum Gap 문제 풀이 완료(20230719)
 - 735\. Asteroid Collision 문제 풀이 완료(20230720)
 - 122\. Best Time to Buy and Sell Stock II 문제 풀이 완료(20230720)
+- 673\. Number of Longest Increasing Subsequence 문제 풀이 완료(20230721)
