@@ -324,3 +324,4 @@
 - 673\. Number of Longest Increasing Subsequence 문제 풀이 완료(20230721)
 - 688\. Knight Probability in Chessboard 문제 풀이 완료(20230722)
 - 894\. All Possible Full Binary Trees 문제 풀이 완료(20230723)
+- 50\. Pow(x, n) 문제 풀이 완료(20230724)
