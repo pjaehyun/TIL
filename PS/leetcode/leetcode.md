@@ -328,3 +328,4 @@
 - 852\. Peak Index in a Mountain Array 문제 풀이 완료(20230725)
 - 1870\. Minimum Speed to Arrive on Time 문제 풀이 완료(20230726)
 - 2141\. Maximum Running Time of N Computers 문제 풀이 완료(20230727)
+- 486\. Predict the Winner 문제 풀이 완료(20230728)
