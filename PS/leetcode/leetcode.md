@@ -330,3 +330,4 @@
 - 2141\. Maximum Running Time of N Computers 문제 풀이 완료(20230727)
 - 486\. Predict the Winner 문제 풀이 완료(20230728)
 - 808\. Soup Servings 문제 풀이 완료(20230729)
+- 664\. Strange Printer 문제 풀이 완료(20230730)
