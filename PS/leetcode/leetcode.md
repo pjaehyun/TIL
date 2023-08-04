@@ -334,3 +334,4 @@
 - 712\. Minimum ASCII Delete Sum for Two Strings 문제 풀이 완료(20230731)
 - 77\. Combinations 문제 풀이 완료(20230801)
 - 17\. Letter Combinations of a Phone Number 문제 풀이 완료(20230803)
+- 5\. Longest Palindromic Substring 문제 풀이 완료(20230804)
