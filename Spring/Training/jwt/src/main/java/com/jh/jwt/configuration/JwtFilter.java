@@ -42,7 +42,7 @@ public class JwtFilter extends OncePerRequestFilter {
                 // 권한 부여
                 UsernamePasswordAuthenticationToken authenticationToken =
                         new UsernamePasswordAuthenticationToken(username, null, authority);
-                // Detail을 넣어준다.
+                // 해당 authenticationToken을 스프링 시큐리티 컨텍스트에 저장한다.
                 authenticationToken.setDetails(new WebAuthenticationDetailsSource().buildDetails(request));
                 SecurityContextHolder.getContext().setAuthentication(authenticationToken);
                 filterChain.doFilter(request, response);
