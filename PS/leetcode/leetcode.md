@@ -338,3 +338,4 @@
 - 95\. Unique Binary Search Trees II 문제 풀이 완료(20230805)
 - 920\. Number of Music Playlists 문제 풀이 완료(20230806)
 - 74\. Search a 2D Matrix 문제 풀이 완료(20230807)
+- 33\. Search in Rotated Sorted Array 문제 풀이 완료(20230808)
