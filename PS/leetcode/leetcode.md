@@ -339,3 +339,4 @@
 - 920\. Number of Music Playlists 문제 풀이 완료(20230806)
 - 74\. Search a 2D Matrix 문제 풀이 완료(20230807)
 - 33\. Search in Rotated Sorted Array 문제 풀이 완료(20230808)
+- 2616\. Minimize the Maximum Difference of Pairs 문제 풀이 완료(20230809)
