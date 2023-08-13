@@ -342,3 +342,4 @@
 - 2616\. Minimize the Maximum Difference of Pairs 문제 풀이 완료(20230809)
 - 81\. Search in Rotated Sorted Array II 문제 풀이 완료(20230811)
 - 518\. Coin Change II 문제 풀이 완료(20230812)
+- 2369\. Check if There is a Valid Partition For The Array 문제 풀이 완료(20230813)
