@@ -19,6 +19,10 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 public class AuthenticationConfig {
 
     private final TokenProvider tokenProvider;
+    @Bean
+    public BCryptPasswordEncoder encodePassword() {
+        return new BCryptPasswordEncoder();
+    }
 
     @Bean
     public SecurityFilterChain securityFilterChain(HttpSecurity httpSecurity) throws Exception {
