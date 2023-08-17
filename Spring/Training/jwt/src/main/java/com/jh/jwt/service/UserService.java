@@ -33,7 +33,8 @@ public class UserService {
 
     private final RedisUtil redisUtil;
     protected final Logger logger = LoggerFactory.getLogger(UserService.class);
-    private final PasswordEncoder passwordEncoder = new BCryptPasswordEncoder();
+
+    private final PasswordEncoder passwordEncoder;
     private final TokenProvider tokenProvider;
 
     @Transactional

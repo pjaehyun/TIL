@@ -20,7 +20,7 @@ public class AuthenticationConfig {
 
     private final TokenProvider tokenProvider;
     @Bean
-    public BCryptPasswordEncoder encodePassword() {
+    public BCryptPasswordEncoder passwordEncoder() {
         return new BCryptPasswordEncoder();
     }
 
