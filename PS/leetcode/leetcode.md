@@ -345,3 +345,4 @@
 - 2369\. Check if There is a Valid Partition For The Array 문제 풀이 완료(20230813)
 - 86\. Partition List 문제 풀이 완료(20230815)
 - 239\. Sliding Window Maximum 문제 풀이 완료(20230816)
+- 542\. 01 Matrix 문제 풀이 완료(20230817)
