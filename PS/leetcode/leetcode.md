@@ -346,3 +346,4 @@
 - 86\. Partition List 문제 풀이 완료(20230815)
 - 239\. Sliding Window Maximum 문제 풀이 완료(20230816)
 - 542\. 01 Matrix 문제 풀이 완료(20230817)
+- 1615\. Maximal Network Rank 문제 풀이 완료(20230818)
