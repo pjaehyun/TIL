@@ -347,3 +347,4 @@
 - 239\. Sliding Window Maximum 문제 풀이 완료(20230816)
 - 542\. 01 Matrix 문제 풀이 완료(20230817)
 - 1615\. Maximal Network Rank 문제 풀이 완료(20230818)
+- 1489\. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree 문제 풀이 완료(20230819)
