@@ -348,3 +348,4 @@
 - 542\. 01 Matrix 문제 풀이 완료(20230817)
 - 1615\. Maximal Network Rank 문제 풀이 완료(20230818)
 - 1489\. Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree 문제 풀이 완료(20230819)
+- 1203\. Sort Items by Groups Respecting Dependencies 문제 풀이 완료(20230820)
