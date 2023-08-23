@@ -351,3 +351,4 @@
 - 1203\. Sort Items by Groups Respecting Dependencies 문제 풀이 완료(20230820)
 - 459\. Repeated Substring Pattern 문제 풀이 완료(20230821)
 - 168\. Excel Sheet Column Title 문제 풀이 완료(20230822)
+- 767\. Reorganize String 문제 풀이 완료(20230823)
