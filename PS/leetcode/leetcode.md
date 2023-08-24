@@ -352,3 +352,4 @@
 - 459\. Repeated Substring Pattern 문제 풀이 완료(20230821)
 - 168\. Excel Sheet Column Title 문제 풀이 완료(20230822)
 - 767\. Reorganize String 문제 풀이 완료(20230823)
+- 68\. Text Justification 문제 풀이 완료(20230824)
