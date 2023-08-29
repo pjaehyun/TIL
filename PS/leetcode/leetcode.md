@@ -357,3 +357,4 @@
 - 646\. Maximum Length of Pair Chain 문제 풀이 완료(20230826)
 - 403\. Frog Jump 문제 풀이 완료(20230827)
 - 225\. Implement Stack using Queues 문제 풀이 완료(20230828)
+- 2483\. Minimum Penalty for a Shop 문제 풀이 완료(20230829)
