@@ -360,3 +360,4 @@
 - 2483\. Minimum Penalty for a Shop 문제 풀이 완료(20230829)
 - 2366\. Minimum Replacements to Sort the Array 문제 풀이 완료(20230830)
 - 1326\. Minimum Number of Taps to Open to Water a Garden 문제 풀이 완료(20230831)
+- 338\. Counting Bits 문제 풀이 완료(20230901)
