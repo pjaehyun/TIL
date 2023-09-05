@@ -363,3 +363,4 @@
 - 338\. Counting Bits 문제 풀이 완료(20230901)
 - 2707\. Extra Characters in a String 문제 풀이 완료(20230902)
 - 141\. Linked List Cycle 문제 풀이 완료(20230904)
+- 138\. Copy List with Random Pointer 문제 풀이 완료(20230905)
