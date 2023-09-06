@@ -364,3 +364,4 @@
 - 2707\. Extra Characters in a String 문제 풀이 완료(20230902)
 - 141\. Linked List Cycle 문제 풀이 완료(20230904)
 - 138\. Copy List with Random Pointer 문제 풀이 완료(20230905)
+- 725\. Split Linked List in Parts 문제 푸링 완료(20230906)
