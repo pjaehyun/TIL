@@ -368,3 +368,4 @@
 - 92\. Reverse Linked List II 문제 풀이 완료(20230907)
 - 377\. Combination Sum IV 문제 풀이 완료(20230909)
 - 1359\. Count All Valid Pickup and Delivery Options 문제 풀이 완료(20230910)
+- 1282\. Group the People Given the Group Size They Belong To 문제 풀이 완료(20230911)
