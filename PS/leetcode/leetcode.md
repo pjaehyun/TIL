@@ -371,3 +371,4 @@
 - 1282\. Group the People Given the Group Size They Belong To 문제 풀이 완료(20230911)
 - 1647\. Minimum Deletions to Make Character Frequencies Unique 문제 풀이 완료(20230912)
 - 135\. Candy 문제 풀이 완료(20230913)
+- 332\. Reconstruct Itinerary 문제 풀이 완료(20230914)
