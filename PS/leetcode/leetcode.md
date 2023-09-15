@@ -372,3 +372,4 @@
 - 1647\. Minimum Deletions to Make Character Frequencies Unique 문제 풀이 완료(20230912)
 - 135\. Candy 문제 풀이 완료(20230913)
 - 332\. Reconstruct Itinerary 문제 풀이 완료(20230914)
+- 1584\. Min Cost to Connect All Points 문제 풀이 완료(20230915)
