@@ -373,3 +373,4 @@
 - 135\. Candy 문제 풀이 완료(20230913)
 - 332\. Reconstruct Itinerary 문제 풀이 완료(20230914)
 - 1584\. Min Cost to Connect All Points 문제 풀이 완료(20230915)
+- 1631\. Path With Minimum Effort 문제 풀이 완료(20230916)
