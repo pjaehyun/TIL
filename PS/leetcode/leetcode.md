@@ -375,3 +375,4 @@
 - 1584\. Min Cost to Connect All Points 문제 풀이 완료(20230915)
 - 1631\. Path With Minimum Effort 문제 풀이 완료(20230916)
 - 847\. Shortest Path Visiting All Nodes 문제 풀이 완료(20230917)
+- 1337\. The K Weakest Rows in a Matrix 문제 풀이 완료(20230918)
