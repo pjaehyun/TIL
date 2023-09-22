@@ -378,3 +378,4 @@
 - 1337\. The K Weakest Rows in a Matrix 문제 풀이 완료(20230918)
 - 287\. Find the Duplicate Number 문제 풀이 완료(20230919)
 - 1658\. Minimum Operations to Reduce X to Zero 문제 풀이 완료(20230920)
+- 392\. Is Subsequence 문제 풀이 완료(20230922)
