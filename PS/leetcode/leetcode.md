@@ -380,3 +380,4 @@
 - 1658\. Minimum Operations to Reduce X to Zero 문제 풀이 완료(20230920)
 - 392\. Is Subsequence 문제 풀이 완료(20230922)
 - 1048\. Longest String Chain 문제 풀이 완료(20230923)
+- 799\. Champagne Tower 문제 풀이 완료(20230924)
