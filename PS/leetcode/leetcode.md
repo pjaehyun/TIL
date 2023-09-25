@@ -381,3 +381,4 @@
 - 392\. Is Subsequence 문제 풀이 완료(20230922)
 - 1048\. Longest String Chain 문제 풀이 완료(20230923)
 - 799\. Champagne Tower 문제 풀이 완료(20230924)
+- 389\. Find the Difference 문제 풀이 완료(20230925)
