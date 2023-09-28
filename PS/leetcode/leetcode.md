@@ -384,3 +384,4 @@
 - 389\. Find the Difference 문제 풀이 완료(20230925)
 - 316\. Remove Duplicate Letters 문제 풀이 완료(20230926)
 - 880\. Decoded String at Index 문제 풀이 완료(20230927)
+- 905\. Sort Array By Parity 문제 풀이 완료(20230928)
