@@ -10,7 +10,7 @@ routes = []
 for _ in range(n):
     routes.append(list(map(int, input().split())))
 
-dp = [[INF] * (1 << n) for _ in range(n)]
+dp = [[None] * (1 << n) for _ in range(n)]
 
 def dfs(x, visited):
     if visited == (1 << n) - 1:
@@ -19,15 +19,15 @@ def dfs(x, visited):
         else:
             return INF
     
-    if dp[x][visited] != INF:
+    if dp[x][visited] != None:
         return dp[x][visited]
 
+    cost = INF
     for i in range(1, n):
-        if not routes[x][i]:
+        if not routes[x][i] or visited & (1 << i):
             continue
-        if visited & (1 << i):
-            continue
-        dp[x][visited] = min(dp[x][visited], dfs(i, visited | (1 << i)) + routes[x][i])
+        cost = min(cost, dfs(i, visited | (1 << i)) + routes[x][i])
+    dp[x][visited] = cost
     return dp[x][visited]
     
 print(dfs(0, 1))
