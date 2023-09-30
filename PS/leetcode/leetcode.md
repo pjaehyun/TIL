@@ -386,3 +386,4 @@
 - 880\. Decoded String at Index 문제 풀이 완료(20230927)
 - 905\. Sort Array By Parity 문제 풀이 완료(20230928)
 - 896\. Monotonic Array 문제 풀이 완료(20230929)
+- 456\. 132 Pattern 문제 풀이 완료(20230930)
