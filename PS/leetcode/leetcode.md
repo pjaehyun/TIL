@@ -388,3 +388,4 @@
 - 896\. Monotonic Array 문제 풀이 완료(20230929)
 - 456\. 132 Pattern 문제 풀이 완료(20230930)
 - 2038\. Remove Colored Pieces if Both Neighbors are the Same Color 문제 풀이 완료(20231002)
+- 1512\. Number of Good Pairs 문제 풀이 완료(20231003)
