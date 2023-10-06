@@ -391,3 +391,4 @@
 - 1512\. Number of Good Pairs 문제 풀이 완료(20231003)
 - 706\. Design HashMap 문제 풀이 완료(20231004)
 - 229\. Majority Element II 문제 풀이 완료(20231005)
+- 343\. Integer Break 문제 풀이 완료(20231006)
