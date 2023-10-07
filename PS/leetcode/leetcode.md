@@ -392,3 +392,4 @@
 - 706\. Design HashMap 문제 풀이 완료(20231004)
 - 229\. Majority Element II 문제 풀이 완료(20231005)
 - 343\. Integer Break 문제 풀이 완료(20231006)
+- 1420\. Build Array Where You Can Find The Maximum Exactly K Comparison 문제 풀이 완료(20231007)
