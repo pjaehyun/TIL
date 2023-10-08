@@ -393,3 +393,4 @@
 - 229\. Majority Element II 문제 풀이 완료(20231005)
 - 343\. Integer Break 문제 풀이 완료(20231006)
 - 1420\. Build Array Where You Can Find The Maximum Exactly K Comparison 문제 풀이 완료(20231007)
+- 1458\. Max Dot Product of Two Subsequences 문제 풀이 완료(20231008)
