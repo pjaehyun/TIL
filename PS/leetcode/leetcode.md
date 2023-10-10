@@ -395,3 +395,4 @@
 - 1420\. Build Array Where You Can Find The Maximum Exactly K Comparison 문제 풀이 완료(20231007)
 - 1458\. Max Dot Product of Two Subsequences 문제 풀이 완료(20231008)
 - 34\. Find First and Last Position of Element in Sorted Array 문제 풀이 완료(20231009)
+- 2009\. Minimum Number of Operations to Make Array Continuous 문제 풀이 완료(20231010)
