@@ -396,3 +396,4 @@
 - 1458\. Max Dot Product of Two Subsequences 문제 풀이 완료(20231008)
 - 34\. Find First and Last Position of Element in Sorted Array 문제 풀이 완료(20231009)
 - 2009\. Minimum Number of Operations to Make Array Continuous 문제 풀이 완료(20231010)
+- 2251\. Number of Flowers in Full Bloom 문제 풀이 완료(20231011)
