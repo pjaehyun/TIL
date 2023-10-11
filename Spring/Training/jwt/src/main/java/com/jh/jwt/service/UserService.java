@@ -54,7 +54,6 @@ public class UserService {
         if (users.isEmpty()) {
             throw new UsernameNotFoundException("존재하지 않는 회원입니다.");
         }
-        System.out.println("user = " + users.get(0).getUsername());
 //         비밀번호 체크
         if (!passwordEncoder.matches(password, users.get(0).getPassword())) {
             throw new BadCredentialsException("비밀번호가 틀렸습니다.");
