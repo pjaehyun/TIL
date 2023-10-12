@@ -397,3 +397,4 @@
 - 34\. Find First and Last Position of Element in Sorted Array 문제 풀이 완료(20231009)
 - 2009\. Minimum Number of Operations to Make Array Continuous 문제 풀이 완료(20231010)
 - 2251\. Number of Flowers in Full Bloom 문제 풀이 완료(20231011)
+- 1095\. Find in Mountain Array 문제 풀이 완료(20231012)
