@@ -402,3 +402,4 @@
 - 1269\. Number of Ways to Stay in the Same Place After Some Steps 문제 풀이 완료(20231015)
 - 2901\. Longest Unequal Adjacent Groups Subsequence II 문제 풀이 완료(20231015)
 - 2902\. Count of Sub-Multisets With Bounded Sum 문제 풀이 완료(20231016)
+- 1361\. Validate Binary Tree Nodes 문제 풀이 완료(20231017)
