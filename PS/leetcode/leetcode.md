@@ -404,3 +404,4 @@
 - 2902\. Count of Sub-Multisets With Bounded Sum 문제 풀이 완료(20231016)
 - 1361\. Validate Binary Tree Nodes 문제 풀이 완료(20231017)
 - 2050\. Parallel Courses III 문제 풀이 완료(20231018)
+- 844\. Backspace String Compare 문제 풀이 완료(20231019)
