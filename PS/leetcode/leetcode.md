@@ -406,3 +406,4 @@
 - 2050\. Parallel Courses III 문제 풀이 완료(20231018)
 - 844\. Backspace String Compare 문제 풀이 완료(20231019)
 - 341\. Flatten Nested List Iterator 문제 풀이 완료(20231020)
+- 1425\. Constrained Subsequence Sum 문제 풀이 완료(20231021)
