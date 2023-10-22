@@ -1,3 +1,5 @@
+# 일반적인 백트래킹으로 풀었으나 시간초과
+# 고민하다 해법을 못찾아 다른 풀이 참고
 import sys
 input = sys.stdin.readline
 
