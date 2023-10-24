@@ -37,6 +37,7 @@ public class AuthenticationConfig {
                 // 경로 설정
                 .antMatchers("/api/v1/users/login").permitAll()
                 .antMatchers("/api/v1/users/sign").permitAll()
+                .antMatchers("/api/v1/users/refresh").permitAll()
                 .antMatchers(HttpMethod.POST, "/api/v1/reviews").authenticated()
                 .and()
                 .sessionManagement()
