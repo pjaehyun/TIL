@@ -410,3 +410,4 @@
 - 1793\. Maximum Score of a Good Subarray 문제 풀이 완료(20231022)
 - 342\. Power of Four 문제 풀이 완료(20231023)
 - 515\. Find Largest Value in Each Tree Row 문제 풀이 완료(20231024)
+- 779\. K-th Symbol in Grammar 문제 풀이 완료(20231025)
