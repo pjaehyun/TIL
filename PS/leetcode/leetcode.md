@@ -411,3 +411,4 @@
 - 342\. Power of Four 문제 풀이 완료(20231023)
 - 515\. Find Largest Value in Each Tree Row 문제 풀이 완료(20231024)
 - 779\. K-th Symbol in Grammar 문제 풀이 완료(20231025)
+- 823\. Binary Trees With Factors 문제 풀이 완료(20231026)
