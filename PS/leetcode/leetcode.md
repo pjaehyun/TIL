@@ -415,3 +415,4 @@
 - 1220\. Count Vowels Permutation 문제 풀이 완료(20231028)
 - 458\. Poor Pigs 문제 풀이 완료(20231029)
 - 1356\. Sort Integers by The Number of 1 Bits 문제 풀이 완료(20231030)
+- 2433\. Find The Original Array of Prefix Xor 문제 풀이 완료(20231031)
