@@ -417,3 +417,4 @@
 - 1356\. Sort Integers by The Number of 1 Bits 문제 풀이 완료(20231030)
 - 2433\. Find The Original Array of Prefix Xor 문제 풀이 완료(20231031)
 - 501\. Find Mode in Binary Search Tree 문제 풀이 완료(20231101)
+- 2265\. Count Nodes Equal to Average of Subtree 문제 풀이 완료(20231102)
