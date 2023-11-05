@@ -420,3 +420,4 @@
 - 2265\. Count Nodes Equal to Average of Subtree 문제 풀이 완료(20231102)
 - 1441\. Build an Array With Stack Operations 문제 풀이 완료(20231103)
 - 1503\. Last Moment Before All Ants Fall Out of a Plank 문제 풀이 완료(20231104)
+- 1535\. Find the Winner of an Array Game 문제 풀이 완료(20231105)
