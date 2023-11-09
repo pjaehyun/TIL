@@ -424,3 +424,4 @@
 - 1845\. Seat Reservation Manager 문제 풀이 완료(20231106)
 - 1921\. Eliminate Maximum Number of Monsters 문제 풀이 완료(20231107)
 - 2849\. Determine if a Cell Is Reachable at a Given Time 문제 풀이 완료(20231108)
+- 1759\. Count Number of Homogenous Substrings 문제 풀이 완료(20231109)
