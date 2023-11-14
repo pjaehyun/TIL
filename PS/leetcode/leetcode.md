@@ -429,3 +429,4 @@
 - 2642\. Design Graph With Shortest Path Calculator 문제 풀이 완료(20231111)
 - 815\. Bus Routes 문제 풀이 완료(20231112)
 - 2785\. Sort Vowels in a String 문제 풀이 완료(20231113)
+- 1930\. Unique Length-3 Palindromic Subsequences 문제 풀이 완료(20231114)
