@@ -431,3 +431,4 @@
 - 2785\. Sort Vowels in a String 문제 풀이 완료(20231113)
 - 1930\. Unique Length-3 Palindromic Subsequences 문제 풀이 완료(20231114)
 - 1846\. Maximum Element After Decreasing and Rearranging 문제 풀이 완료(20231115)
+- 1980\. Find Unique Binary String 문제 풀이 완료(20231116)
