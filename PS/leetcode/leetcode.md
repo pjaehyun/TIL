@@ -434,3 +434,4 @@
 - 1980\. Find Unique Binary String 문제 풀이 완료(20231116)
 - 1877\. Minimize Maximum Pair Sum in Array 문제 풀이 완료(20231117)
 - 1838\. Frequency of the Most Frequent Element 문제 풀이 완료(20231118)
+- 1887\. Reduction Operations to Make the Array Elements Equal 문제 풀이 완료(20231119)
