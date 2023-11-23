@@ -438,3 +438,4 @@
 - 2391\. Minimum Amount of Time to Collect Garbage 문제 풀이 완료(20231120)
 - 1814\. Count Nice Pairs in an Array 문제 풀이 완료(20231121)
 - 1424\. Diagonal Traverse II 문제 풀이 완료(20231122)
+- 1630\. Arithmetic Subarrays 문제 풀이 완료(20231123)
