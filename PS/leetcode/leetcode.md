@@ -440,3 +440,4 @@
 - 1424\. Diagonal Traverse II 문제 풀이 완료(20231122)
 - 1630\. Arithmetic Subarrays 문제 풀이 완료(20231123)
 - 1561\. Maximum Number of Coins You Can Get 문제 풀이 완료(20231124)
+- 1685\. Sum of Absolute Differences in a Sorted Array 문제 풀이 완료(20231125)
