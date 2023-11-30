@@ -445,3 +445,4 @@
 - 935\. Knight Dialer 문제 풀이 완료(20231127)
 - 2147\. Number of Ways to Divide a Long Corridor 문제 풀이 완료(20231128)
 - 191\. Number of 1 Bits 문제 풀이 완료(20231129)
+- 1611\. Minimum One Bit Operations to Make Integers Zero 문제 풀이 완료(20231130)
