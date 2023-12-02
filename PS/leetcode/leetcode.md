@@ -446,3 +446,4 @@
 - 2147\. Number of Ways to Divide a Long Corridor 문제 풀이 완료(20231128)
 - 191\. Number of 1 Bits 문제 풀이 완료(20231129)
 - 1611\. Minimum One Bit Operations to Make Integers Zero 문제 풀이 완료(20231130)
+- 1160\. Find Words That Can Be Formed by Characters 문제 풀이 완료(20231202)
