@@ -448,3 +448,4 @@
 - 1611\. Minimum One Bit Operations to Make Integers Zero 문제 풀이 완료(20231130)
 - 1160\. Find Words That Can Be Formed by Characters 문제 풀이 완료(20231202)
 - 1266\. Minimum Time Visiting All Points 문제 풀이 완료(20231203)
+- 2264\. Largest 3-Same-Digit Number in String 문제 풀이 완료(20231204)
