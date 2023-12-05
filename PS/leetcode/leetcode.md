@@ -449,3 +449,4 @@
 - 1160\. Find Words That Can Be Formed by Characters 문제 풀이 완료(20231202)
 - 1266\. Minimum Time Visiting All Points 문제 풀이 완료(20231203)
 - 2264\. Largest 3-Same-Digit Number in String 문제 풀이 완료(20231204)
+- 1688\. Count of Matches in Tournament 문제 풀이 완료(20231205)
