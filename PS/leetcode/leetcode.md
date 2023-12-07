@@ -451,3 +451,4 @@
 - 2264\. Largest 3-Same-Digit Number in String 문제 풀이 완료(20231204)
 - 1688\. Count of Matches in Tournament 문제 풀이 완료(20231205)
 - 1716\. Calculate Money in Leetcode Bank 문제 풀이 완료(20231206)
+- 1903\. Largest Odd Number in String 문제 풀이 완료(20231207)
