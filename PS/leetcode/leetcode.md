@@ -454,3 +454,4 @@
 - 1903\. Largest Odd Number in String 문제 풀이 완료(20231207)
 - 606\. Construct String from Binary Tree 문제 풀이 완료(20231208)
 - 136\. Single Number 문제 풀이 완료(20231209)
+- 867\. Transpose Matrix 문제 풀이 완료(20231210)
