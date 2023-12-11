@@ -455,3 +455,4 @@
 - 606\. Construct String from Binary Tree 문제 풀이 완료(20231208)
 - 136\. Single Number 문제 풀이 완료(20231209)
 - 867\. Transpose Matrix 문제 풀이 완료(20231210)
+- 1287\. Element Appearing More Than 25% In Sorted Array 문제 풀이 완료(20231211)
