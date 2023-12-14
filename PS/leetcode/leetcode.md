@@ -458,3 +458,4 @@
 - 1287\. Element Appearing More Than 25% In Sorted Array 문제 풀이 완료(20231211)
 - 1464\. Maximum Product of Two Elements in an Array 문제 풀이 완료(20231212)
 - 1582\. Special Positions in a Binary Matrix 문제 풀이 완료(20231213)
+- 2482\. Difference Between Ones and Zeros in Row and Column 문제 풀이 완료(20231214)
