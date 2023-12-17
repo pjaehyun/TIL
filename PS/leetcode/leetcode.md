@@ -461,3 +461,4 @@
 - 2482\. Difference Between Ones and Zeros in Row and Column 문제 풀이 완료(20231214)
 - 1436\. Destination City 문제 풀이 완료(20231215)
 - 242\. Valid Anagram 문제 풀이 완료(20231216)
+- 2353\. Design a Food Rating System 문제 풀이 완료(20231217)
