@@ -462,3 +462,4 @@
 - 1436\. Destination City 문제 풀이 완료(20231215)
 - 242\. Valid Anagram 문제 풀이 완료(20231216)
 - 2353\. Design a Food Rating System 문제 풀이 완료(20231217)
+- 1913\. Maximum Product Difference Between Two Pairs 문제 풀이 완료(20231218)
