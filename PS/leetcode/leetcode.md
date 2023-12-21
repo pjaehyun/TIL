@@ -465,3 +465,4 @@
 - 1913\. Maximum Product Difference Between Two Pairs 문제 풀이 완료(20231218)
 - 661\. Image Smoother 문제 풀이 완료(20231219)
 - 2706\. Buy Two Chocolates 문제 풀이 완료(20231220)
+- 1637\. Widest Vertical Area Between Two Points Containing No Points 문제 풀이 완료(20231221)
