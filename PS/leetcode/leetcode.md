@@ -467,3 +467,4 @@
 - 2706\. Buy Two Chocolates 문제 풀이 완료(20231220)
 - 1637\. Widest Vertical Area Between Two Points Containing No Points 문제 풀이 완료(20231221)
 - 1422\. Maximum Score After Splitting a String 문제 풀이 완료(20231222)
+- 1496\. Path Crossing 문제 풀이 완료(20231223)
