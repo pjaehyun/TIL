@@ -470,3 +470,4 @@
 - 1496\. Path Crossing 문제 풀이 완료(20231223)
 - 1758\. Minimum Changes To Make Alternating Binary String 문제 풀이 완료(20231224)
 - 108\. Convert Sorted Array to Binary Search Tree 문제 풀이 완료(20231225)
+- 206\. Reverse Linked List 문제 풀이 완료(20231226)
