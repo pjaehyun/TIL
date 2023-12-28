@@ -472,3 +472,4 @@
 - 108\. Convert Sorted Array to Binary Search Tree 문제 풀이 완료(20231225)
 - 206\. Reverse Linked List 문제 풀이 완료(20231226)
 - 1578\. Minimum Time to Make Rope Colorful 문제 풀이 완료(20231227)
+- 1531\. String Compression II 문제 풀이 완료(20231228)
