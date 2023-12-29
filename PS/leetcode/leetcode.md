@@ -473,3 +473,4 @@
 - 206\. Reverse Linked List 문제 풀이 완료(20231226)
 - 1578\. Minimum Time to Make Rope Colorful 문제 풀이 완료(20231227)
 - 1531\. String Compression II 문제 풀이 완료(20231228)
+- 1335\. Minimum Difficulty of a Job Schedule 문제 풀이 완료(20231229)
