@@ -474,3 +474,4 @@
 - 1578\. Minimum Time to Make Rope Colorful 문제 풀이 완료(20231227)
 - 1531\. String Compression II 문제 풀이 완료(20231228)
 - 1335\. Minimum Difficulty of a Job Schedule 문제 풀이 완료(20231229)
+- 1897\. Redistribute Characters to Make All Strings Equal 문제 풀이 완료(20231230)
