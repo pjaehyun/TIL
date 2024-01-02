@@ -476,3 +476,4 @@
 - 1335\. Minimum Difficulty of a Job Schedule 문제 풀이 완료(20231229)
 - 1897\. Redistribute Characters to Make All Strings Equal 문제 풀이 완료(20231230)
 - 1624\. Largest Substring Between Two Equal Characters 문제 풀이 완료(20231231)
+- 2610\. Convert an Array Into a 2D Array With Conditions 문제 풀이 완료(20230102)
