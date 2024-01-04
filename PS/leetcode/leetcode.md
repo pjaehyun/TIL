@@ -478,3 +478,4 @@
 - 1624\. Largest Substring Between Two Equal Characters 문제 풀이 완료(20231231)
 - 2610\. Convert an Array Into a 2D Array With Conditions 문제 풀이 완료(20230102)
 - 2125\. Number of Laser Beams in a Bank 문제 풀이 완료(20230103)
+- 2870\. Minimum Number of Operations to Make Array Empty 문제 풀이 완료(20230104)
