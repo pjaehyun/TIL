@@ -480,3 +480,4 @@
 - 2125\. Number of Laser Beams in a Bank 문제 풀이 완료(20230103)
 - 2870\. Minimum Number of Operations to Make Array Empty 문제 풀이 완료(20230104)
 - 300\. Longest Increasing Subsequence 문제 풀이 완료(20230105)
+- 2385\. Amount of Time for Binary Tree to Be Infected 문제 풀이 완료(20230110)
