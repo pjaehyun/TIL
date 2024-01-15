@@ -32,3 +32,20 @@ class Solution:
         answer.append(sorted(k for k, v in Counter(loser).items() if v == 1))
         return answer
         
+# 세번째 코드
+class Solution:
+    def findWinners(self, matches: List[List[int]]) -> List[List[int]]:
+        count = defaultdict(int)
+
+        for i in range(len(matches)):
+            count[matches[i][1]] += 1
+        winners = set()
+        losers = set()
+        for i in range(len(matches)):
+            winner, loser = matches[i]
+            if count[winner] == 0:
+                winners.add(winner)
+            
+            if count[loser] == 1:
+                losers.add(loser)
+        return [sorted(winners), sorted(losers)]
