@@ -45,3 +45,29 @@ class RandomizedSet:
 
     def getRandom(self) -> int:
         return random.choice(self.arr)
+    
+# 세번째 코드
+import random
+
+class RandomizedSet:
+    def __init__(self):
+        self.random_set = []
+        self.numbers = set()
+        
+    def insert(self, val: int) -> bool:
+        if val not in self.numbers:
+            self.random_set.append(val)
+            self.numbers.add(val)
+            return True
+        return False
+
+    def remove(self, val: int) -> bool:
+        if val in self.numbers:
+            self.random_set.remove(val)
+            self.numbers.remove(val)
+            return True
+        return False
+
+    def getRandom(self) -> int:
+        random_idx = int(random.randrange(0, len(self.random_set)))
+        return self.random_set[random_idx]
