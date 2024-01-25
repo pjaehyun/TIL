@@ -483,3 +483,4 @@
 - 2385\. Amount of Time for Binary Tree to Be Infected 문제 풀이 완료(20230110)
 - 1347\. Minimum Number of Steps to Make Two Strings Anagram 문제 풀이 완료(20230113)
 - 1457\. Pseudo-Palindromic Paths in a Binary Tree 문제 풀이 완료(20230124)
+- 78\. Subsets 문제 풀이 완료(20230125)
