@@ -484,3 +484,4 @@
 - 1347\. Minimum Number of Steps to Make Two Strings Anagram 문제 풀이 완료(20230113)
 - 1457\. Pseudo-Palindromic Paths in a Binary Tree 문제 풀이 완료(20230124)
 - 78\. Subsets 문제 풀이 완료(20230125)
+- 576\. Out of Boundary Paths 문제 풀이 완료(20230126)
