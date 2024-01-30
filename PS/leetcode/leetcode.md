@@ -486,3 +486,4 @@
 - 78\. Subsets 문제 풀이 완료(20230125)
 - 576\. Out of Boundary Paths 문제 풀이 완료(20230126)
 - 1074\. Number of Submatrices That Sum to Target 문제 풀이 완료(20230128)
+- 150\. Evaluate Reverse Polish Notation 문제 풀이 완료(20230130)
