@@ -490,3 +490,4 @@
 - 2966\. Divide Array Into Arrays With Max Difference 문제 풀이 완료(20230201)
 - 1291\. Sequential Digits 문제 풀이 완료(20230202)
 - 1043\. Partition Array for Maximum Sum 문제 풀이 완료(20230203)
+- 387\. First Unique Character in a String 문제 풀이 완료(20230205)
