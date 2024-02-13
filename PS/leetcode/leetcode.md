@@ -495,3 +495,4 @@
 - 647\. Palindromic Substrings 문제 풀이 완료(20230210)
 - 1463\. Cherry Pickup II 문제 풀이 완료(20230211)
 - 169\. Majority Element 문제 풀이 완료(20230212)
+- 2108\. Find First Palindromic String in the Array 문제 풀이 완료(20230213)
