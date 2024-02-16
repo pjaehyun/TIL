@@ -498,3 +498,4 @@
 - 2108\. Find First Palindromic String in the Array 문제 풀이 완료(20230213)
 - 2149\. Rearrange Array Elements by Sign 문제 풀이 완료(20230214)
 - 2971\. Find Polygon With the Largest Perimeter 문제 풀이 완료(20230215)
+- 1481\. Least Number of Unique Integers after K Removals 문제 풀이 완료(20230216)
