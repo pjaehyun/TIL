@@ -502,3 +502,4 @@
 - 1642\. Furthest Building You Can Reach 문제 풀이 완료(20230217)
 - 2402\. Meeting Rooms III 문제 풀이 완료(20230218)
 - 231\. Power of Two 문제 풀이 완료(20230219)
+- 268\. Missing Number 문제 풀이 완료(20230220)
