@@ -504,3 +504,4 @@
 - 231\. Power of Two 문제 풀이 완료(20230219)
 - 268\. Missing Number 문제 풀이 완료(20230220)
 - 201\. Bitwise AND of Numbers Range 문제 풀이 완료(20230221)
+- 2092\. Find All People With Secret 문제 풀이 완료(20230224)
