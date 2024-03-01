@@ -509,3 +509,4 @@
 - 543\. Diameter of Binary Tree 문제 풀이 완료(20230227)
 - 513\. Find Bottom Left Tree Value 문제 풀이 완료(20230228)
 - 1609\. Even Odd Tree 문제 풀이 완료(20230229)
+- 2864\. Maximum Odd Binary Number 문제 풀이 완료(20240301)
