@@ -510,3 +510,4 @@
 - 513\. Find Bottom Left Tree Value 문제 풀이 완료(20230228)
 - 1609\. Even Odd Tree 문제 풀이 완료(20230229)
 - 2864\. Maximum Odd Binary Number 문제 풀이 완료(20240301)
+- 977\. Squares of a Sorted Array 문제 풀이 완료(20240302)
