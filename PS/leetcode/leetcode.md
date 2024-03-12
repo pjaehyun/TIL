@@ -517,3 +517,4 @@
 - 2540\. Minimum Common Value 문제 풀이 완료(20240309)
 - 349\. Intersection of Two Arrays 문제 풀이 완료(20240310)
 - 791\. Custom Sort String 문제 풀이 완료(20240311)
+- 1171\. Remove Zero Sum Consecutive Nodes from Linked List 문제 풀이 완료(20240312)
