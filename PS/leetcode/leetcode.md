@@ -521,3 +521,4 @@
 - 2485\. Find the Pivot Integer 문제 풀이 완료(20240313)
 - 930\. Binary Subarrays With Sum 문제 풀이 완료(20240314)
 - 238\. Product of Array Except Self 문제 풀이 완료(20240315)
+- 525\. Contiguous Array 문제 풀이 완료(20240316)
