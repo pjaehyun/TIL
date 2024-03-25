@@ -526,3 +526,4 @@
 - 1669\. Merge In Between Linked Lists 문제 풀이 완료(20240320)
 - 234\. Palindrome Linked List 문제 풀이 완료(20240322)
 - 143\. Reorder List 문제 풀이 완료(20240323)
+- 442\. Find All Duplicates in an Array 문제 풀이 완료(20240326)
