@@ -529,3 +529,4 @@
 - 442\. Find All Duplicates in an Array 문제 풀이 완료(20240325)
 - 41\. First Missing Positive 문제 풀이 완료(20240326)
 - 713\. Subarray Product Less Than K 문제 풀이 완료(20240327)
+- 2958\. Length of Longest Subarray With at Most K Frequency 문제 풀이 완료(20240328)
