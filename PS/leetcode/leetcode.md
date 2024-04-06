@@ -535,3 +535,4 @@
 - 58\. Length of Last Word 문제 풀이 완료(20240401)
 - 205\. Isomorphic Strings 문제 풀이 완료(20240402)
 - 1614\. Maximum Nesting Depth of the Parentheses 문제 풀이 완료(20240404)
+- 1249\. Minimum Remove to Make Valid Parentheses 문제 풀이 완료(20240406)
