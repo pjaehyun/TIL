@@ -536,3 +536,4 @@
 - 205\. Isomorphic Strings 문제 풀이 완료(20240402)
 - 1614\. Maximum Nesting Depth of the Parentheses 문제 풀이 완료(20240404)
 - 1249\. Minimum Remove to Make Valid Parentheses 문제 풀이 완료(20240406)
+- 678\. Valid Parenthesis String 문제 풀이 완료(20240407)
