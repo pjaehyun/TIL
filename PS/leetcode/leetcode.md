@@ -538,3 +538,4 @@
 - 1249\. Minimum Remove to Make Valid Parentheses 문제 풀이 완료(20240406)
 - 678\. Valid Parenthesis String 문제 풀이 완료(20240407)
 - 1700\. Number of Students Unable to Eat Lunch 문제 풀이 완료(20240408)
+- 2073\. Time Needed to Buy Tickets 문제 풀이 완료(20240409)
