@@ -540,3 +540,4 @@
 - 1700\. Number of Students Unable to Eat Lunch 문제 풀이 완료(20240408)
 - 2073\. Time Needed to Buy Tickets 문제 풀이 완료(20240409)
 - 950\. Reveal Cards In Increasing Order 문제 풀이 완료(20240410)
+- 402\. Remove K Digits 문제 풀이 완료(20240411)
