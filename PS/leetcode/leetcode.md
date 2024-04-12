@@ -541,3 +541,4 @@
 - 2073\. Time Needed to Buy Tickets 문제 풀이 완료(20240409)
 - 950\. Reveal Cards In Increasing Order 문제 풀이 완료(20240410)
 - 402\. Remove K Digits 문제 풀이 완료(20240411)
+- 42\. Trapping Rain Water 문제 풀이 완료(20240412)
