@@ -542,3 +542,4 @@
 - 950\. Reveal Cards In Increasing Order 문제 풀이 완료(20240410)
 - 402\. Remove K Digits 문제 풀이 완료(20240411)
 - 42\. Trapping Rain Water 문제 풀이 완료(20240412)
+- 85\. Maximal Rectangle 문제 풀이 완료(20240413)
