@@ -543,3 +543,4 @@
 - 402\. Remove K Digits 문제 풀이 완료(20240411)
 - 42\. Trapping Rain Water 문제 풀이 완료(20240412)
 - 85\. Maximal Rectangle 문제 풀이 완료(20240413)
+- 404\. Sum of Left Leaves 문제 풀이 완료(20240414)
