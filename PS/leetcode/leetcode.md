@@ -546,3 +546,4 @@
 - 404\. Sum of Left Leaves 문제 풀이 완료(20240414)
 - 988\. Smallest String Starting From Leaf 문제 풀이 완료(20240417)
 - 463\. Island Perimeter 문제 풀이 완료(20240418)
+- 200\. Number of Islands 문제 풀이 완료(20240419)
