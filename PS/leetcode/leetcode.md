@@ -547,3 +547,4 @@
 - 988\. Smallest String Starting From Leaf 문제 풀이 완료(20240417)
 - 463\. Island Perimeter 문제 풀이 완료(20240418)
 - 200\. Number of Islands 문제 풀이 완료(20240419)
+- 1992\. Find All Groups of Farmland 문제 풀이 완료(20240420)
