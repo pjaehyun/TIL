@@ -549,3 +549,4 @@
 - 200\. Number of Islands 문제 풀이 완료(20240419)
 - 1992\. Find All Groups of Farmland 문제 풀이 완료(20240420)
 - 752\. Open the Lock 문제 풀이 완료(20240422)
+- 310\. Minimum Height Trees 문제 풀이 완료(20240423)
