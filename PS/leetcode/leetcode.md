@@ -552,3 +552,4 @@
 - 310\. Minimum Height Trees 문제 풀이 완료(20240423)
 - 2370\. Longest Ideal Subsequence 문제 풀이 완료(20240425)
 - 1289\. Minimum Falling Path Sum II 문제 풀이 완료(20240426)
+- 514\. Freedom Trail 문제 풀이 완료(20240427)
