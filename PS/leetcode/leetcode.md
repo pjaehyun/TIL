@@ -560,3 +560,4 @@
 - 165\. Compare Version Numbers 문제 풀이 완료(20240503)
 - 237\. Delete Node in a Linked List 문제 풀이 완료(20240505)
 - 2487\. Remove Nodes From Linked List 문제 풀이 완료(20240506)
+- 2816\. Double a Number Represented as a Linked List 문제 풀이 완료(20240507)
