@@ -565,3 +565,4 @@
 - 3075\. Maximize Happiness of Selected Children 문제 풀이 완료(20240509)
 - 786\. K-th Smallest Prime Fraction 문제 풀이 완료(20240510)
 - 857\. Minimum Cost to Hire K Workers 문제 풀이 완료(20240511)
+- 2373\. Largest Local Values in a Matrix 문제 풀이 완료(20240512)
