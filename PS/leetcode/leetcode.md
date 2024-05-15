@@ -568,3 +568,4 @@
 - 2373\. Largest Local Values in a Matrix 문제 풀이 완료(20240512)
 - 861\. Score After Flipping Matrix 문제 풀이 완료(202430513)
 - 1219\. Path with Maximum Gold 문제 풀이 완료(20240514)
+- 2812\. Find the Safest Path in a Grid 문제 풀이 완료(20240515)
