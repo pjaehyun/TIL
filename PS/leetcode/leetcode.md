@@ -571,3 +571,4 @@
 - 2812\. Find the Safest Path in a Grid 문제 풀이 완료(20240515)
 - 2331\. Evaluate Boolean Binary Tree 문제 풀이 완료(20240516)
 - 1325\. Delete Leaves With a Given Value 문제 풀이 완료(20240517)
+- 979\. Distribute Coins in Binary Tree 문제 풀이 완료(20240518)
