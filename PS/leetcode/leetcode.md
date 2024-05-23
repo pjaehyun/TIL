@@ -574,3 +574,4 @@
 - 979\. Distribute Coins in Binary Tree 문제 풀이 완료(20240518)
 - 3068\. Find the Maximum Sum of Node Values 문제 풀이 완료(20240519)
 - 1863\. Sum of All Subset XOR Totals 문제 풀이 완료(20240520)
+- 2597\. The Number of Beautiful Subsets 문제 풀이 완료(20240523)
