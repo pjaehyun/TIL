@@ -577,3 +577,4 @@
 - 2597\. The Number of Beautiful Subsets 문제 풀이 완료(20240523)
 - 1255\. Maximum Score Words Formed by Letters 문제 풀이 완료(20240524)
 - 140\. Word Break II 문제 풀이 완료(20240525)
+- 552\. Student Attendance Record II 문제 풀이 완료(20240526)
