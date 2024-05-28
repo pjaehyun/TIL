@@ -579,3 +579,4 @@
 - 140\. Word Break II 문제 풀이 완료(20240525)
 - 552\. Student Attendance Record II 문제 풀이 완료(20240526)
 - 1608\. Special Array With X Elements Greater Than or Equal X 문제 풀이 완료(20240527)
+- 1208\. Get Equal Substrings Within Budget 문제 풀이 완료(20240528)
