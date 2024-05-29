@@ -580,3 +580,4 @@
 - 552\. Student Attendance Record II 문제 풀이 완료(20240526)
 - 1608\. Special Array With X Elements Greater Than or Equal X 문제 풀이 완료(20240527)
 - 1208\. Get Equal Substrings Within Budget 문제 풀이 완료(20240528)
+- 1404\. Number of Steps to Reduce a Number in Binary Representation to One 문제 풀이 완료(20240529)
