@@ -590,3 +590,4 @@
 - 1002\. Find Common Characters 문제 풀이 완료(20240605)
 - 846\. Hand of Straights 문제 풀이 완료(20240606)
 - 648\. Replace Words 문제 풀이 완료(20240607)
+- 1051\. Height Checker 문제 풀이 완료(20240610)
