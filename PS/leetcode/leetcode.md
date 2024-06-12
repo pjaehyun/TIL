@@ -592,3 +592,4 @@
 - 648\. Replace Words 문제 풀이 완료(20240607)
 - 1051\. Height Checker 문제 풀이 완료(20240610)
 - 1122\. Relative Sort Array 문제 풀이 완료(20240611)
+- 75\. Sort Colors 문제 풀이 완료(20240612)
