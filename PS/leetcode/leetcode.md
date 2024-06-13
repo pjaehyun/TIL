@@ -593,3 +593,4 @@
 - 1051\. Height Checker 문제 풀이 완료(20240610)
 - 1122\. Relative Sort Array 문제 풀이 완료(20240611)
 - 75\. Sort Colors 문제 풀이 완료(20240612)
+- 2037\. Minimum Number of Moves to Seat Everyone 문제 풀이 완료(20240613)
