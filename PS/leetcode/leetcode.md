@@ -596,3 +596,4 @@
 - 2037\. Minimum Number of Moves to Seat Everyone 문제 풀이 완료(20240613)
 - 945\. Minimum Increment to Make Array Unique 문제 풀이 완료(20240614)
 - 330\. Patching Array 문제 풀이 완료(20240616)
+- 633\. Sum of Square Numbers 문제 풀이 완료(20240617)
