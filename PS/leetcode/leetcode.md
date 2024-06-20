@@ -599,3 +599,4 @@
 - 633\. Sum of Square Numbers 문제 풀이 완료(20240617)
 - 826\. Most Profit Assigning Work 문제 풀이 완료(20240618)
 - 1482\. Minimum Number of Days to Make m Bouquets 문제 풀이 완료(20240619)
+- 1552\. Magnetic Force Between Two Balls 문제 풀이 완료(20240620)
