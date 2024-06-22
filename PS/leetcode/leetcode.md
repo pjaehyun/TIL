@@ -601,3 +601,4 @@
 - 1482\. Minimum Number of Days to Make m Bouquets 문제 풀이 완료(20240619)
 - 1552\. Magnetic Force Between Two Balls 문제 풀이 완료(20240620)
 - 1052\. Grumpy Bookstore Owner 문제 풀이 완료(20240621)
+- 1248\. Count Number of Nice Subarrays 문제 풀이 완료(20240622)
