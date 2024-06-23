@@ -602,3 +602,4 @@
 - 1552\. Magnetic Force Between Two Balls 문제 풀이 완료(20240620)
 - 1052\. Grumpy Bookstore Owner 문제 풀이 완료(20240621)
 - 1248\. Count Number of Nice Subarrays 문제 풀이 완료(20240622)
+- 1438\. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit 문제 풀이 완료(20240623)
