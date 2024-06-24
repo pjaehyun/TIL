@@ -603,3 +603,4 @@
 - 1052\. Grumpy Bookstore Owner 문제 풀이 완료(20240621)
 - 1248\. Count Number of Nice Subarrays 문제 풀이 완료(20240622)
 - 1438\. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit 문제 풀이 완료(20240623)
+- 995\. Minimum Number of K Consecutive Bit Flips 문제 풀이 완료(20240624)
