@@ -605,3 +605,4 @@
 - 1438\. Longest Continuous Subarray With Absolute Diff Less Than or Equal to Limit 문제 풀이 완료(20240623)
 - 995\. Minimum Number of K Consecutive Bit Flips 문제 풀이 완료(20240624)
 - 1038\. Binary Search Tree to Greater Sum Tree 문제 풀이 완료(20240625)
+- 1382\. Balance a Binary Search Tree 문제 풀이 완료(20240626)
