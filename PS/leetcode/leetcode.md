@@ -607,3 +607,4 @@
 - 1038\. Binary Search Tree to Greater Sum Tree 문제 풀이 완료(20240625)
 - 1382\. Balance a Binary Search Tree 문제 풀이 완료(20240626)
 - 1791\. Find Center of Star Graph 문제 풀이 완료(20240627)
+- 2285\. Maximum Total Importance of Roads 문제 풀이 완료(20240628)
