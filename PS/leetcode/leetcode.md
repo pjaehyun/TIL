@@ -608,3 +608,4 @@
 - 1382\. Balance a Binary Search Tree 문제 풀이 완료(20240626)
 - 1791\. Find Center of Star Graph 문제 풀이 완료(20240627)
 - 2285\. Maximum Total Importance of Roads 문제 풀이 완료(20240628)
+- 2192\. All Ancestors of a Node in a Directed Acyclic Graph 문제 풀이 완료(20240629)
