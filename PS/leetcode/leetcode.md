@@ -612,3 +612,4 @@
 - 1550\. Three Consecutive Odds 문제 풀이 완료(20240701)
 - 350\. Intersection of Two Arrays II 문제 풀이 완료(20240702)
 - 1509\. Minimum Difference Between Largest and Smallest Value in Three Moves 문제 풀이 완료(20240703)
+- 2181\. Merge Nodes in Between Zeros 문제 풀이 완료(20240704)
