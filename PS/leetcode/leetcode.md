@@ -615,3 +615,4 @@
 - 2181\. Merge Nodes in Between Zeros 문제 풀이 완료(20240704)
 - 2058\. Find the Minimum and Maximum Number of Nodes Between Critical Points 문제 풀이 완료(20240705)
 - 2582\. Pass the Pillow 문제 풀이 완료(20240706)
+- 1518\. Water Bottles 문제 풀이 완료(20240707)
