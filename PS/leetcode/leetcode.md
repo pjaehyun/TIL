@@ -617,3 +617,4 @@
 - 2582\. Pass the Pillow 문제 풀이 완료(20240706)
 - 1518\. Water Bottles 문제 풀이 완료(20240707)
 - 1823\. Find the Winner of the Circular Game 문제 풀이 완료(20240708)
+- 1701\. Average Waiting Time 문제 풀이 완료(20240709)
