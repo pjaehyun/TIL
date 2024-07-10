@@ -618,3 +618,4 @@
 - 1518\. Water Bottles 문제 풀이 완료(20240707)
 - 1823\. Find the Winner of the Circular Game 문제 풀이 완료(20240708)
 - 1701\. Average Waiting Time 문제 풀이 완료(20240709)
+- 1598\. Crawler Log Folder 문제 풀이 완료(20240710)
