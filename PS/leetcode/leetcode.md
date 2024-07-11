@@ -619,3 +619,4 @@
 - 1823\. Find the Winner of the Circular Game 문제 풀이 완료(20240708)
 - 1701\. Average Waiting Time 문제 풀이 완료(20240709)
 - 1598\. Crawler Log Folder 문제 풀이 완료(20240710)
+- 1190\. Reverse Substrings Between Each Pair of Parentheses 문제 풀이 완료(20240711)
