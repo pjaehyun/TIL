@@ -622,3 +622,4 @@
 - 1190\. Reverse Substrings Between Each Pair of Parentheses 문제 풀이 완료(20240711)
 - 1717\. Maximum Score From Removing Substrings 문제 풀이 완료(20240712)
 - 2751\. Robot Collisions 문제 풀이 완료(20240713)
+- 726\. Number of Atoms 문제 풀이 완료(20240714)
