@@ -623,3 +623,4 @@
 - 1717\. Maximum Score From Removing Substrings 문제 풀이 완료(20240712)
 - 2751\. Robot Collisions 문제 풀이 완료(20240713)
 - 726\. Number of Atoms 문제 풀이 완료(20240714)
+- 2196\. Create Binary Tree From Descriptions 문제 풀이 완료(20240715)
