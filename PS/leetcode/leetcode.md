@@ -626,3 +626,4 @@
 - 2196\. Create Binary Tree From Descriptions 문제 풀이 완료(20240715)
 - 2096\. Step-By-Step Directions From a Binary Tree Node to Another 문제 풀이 완료(20240716)
 - 1110\. Delete Nodes And Return Forest 문제 풀이 완료(20240717)
+- 1530\. Number of Good Leaf Nodes Pairs 문제 풀이 완료(20240718)
