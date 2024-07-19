@@ -627,3 +627,4 @@
 - 2096\. Step-By-Step Directions From a Binary Tree Node to Another 문제 풀이 완료(20240716)
 - 1110\. Delete Nodes And Return Forest 문제 풀이 완료(20240717)
 - 1530\. Number of Good Leaf Nodes Pairs 문제 풀이 완료(20240718)
+- 1380\. Lucky Numbers in a Matrix 문제 풀이 완료(20240719)
