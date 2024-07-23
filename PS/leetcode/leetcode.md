@@ -631,3 +631,4 @@
 - 1605\. Find Valid Matrix Given Row and Column Sums 문제 풀이 완료(20240720)
 - 2392\. Build a Matrix With Conditions 문제 풀이 완료(20240721)
 - 2418\. Sort the People 문제 풀이 완료(20240722)
+- 1636\. Sort Array by Increasing Frequency 문제 풀이 완료(20240723)
