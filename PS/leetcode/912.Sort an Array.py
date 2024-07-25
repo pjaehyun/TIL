@@ -26,3 +26,36 @@ class Solution:
             return merge(left, right)
 
         return devide(nums)
+    
+# 두번째 풀이
+class Solution:
+    def sortArray(self, nums: List[int]) -> List[int]:
+        def merge(arr):
+            if len(arr) < 2:
+                return arr
+            
+            mid = len(arr) // 2
+            low_arr = merge(arr[:mid])
+            high_arr = merge(arr[mid:])
+
+            l, h = 0, 0
+            
+            merge_sorted = []
+            while l < len(low_arr) and h < len(high_arr):
+                if low_arr[l] < high_arr[h]:
+                    merge_sorted.append(low_arr[l])
+                    l += 1
+                else:
+                    merge_sorted.append(high_arr[h])
+                    h += 1
+            
+            merge_sorted += low_arr[l:]
+            merge_sorted += high_arr[h:]
+            return merge_sorted
+        
+        return merge(nums)
+    
+# 세번째 풀이
+class Solution:
+    def sortArray(self, nums: List[int]) -> List[int]:
+        return sorted(nums)
