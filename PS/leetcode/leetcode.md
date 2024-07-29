@@ -636,3 +636,4 @@
 - 1334\. Find the City With the Smallest Number of Neighbors at a Threshold Distance 문제 풀이 완료(20240726)
 - 2976\. Minimum Cost to Convert String I 문제 풀이 완료(20240727)
 - 2045\. Second Minimum Time to Reach Destination 문제 풀이 완료(20240728)
+- 1395\. Count Number of Teams 문제 풀이 완료(20240729)
