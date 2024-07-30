@@ -637,3 +637,4 @@
 - 2976\. Minimum Cost to Convert String I 문제 풀이 완료(20240727)
 - 2045\. Second Minimum Time to Reach Destination 문제 풀이 완료(20240728)
 - 1395\. Count Number of Teams 문제 풀이 완료(20240729)
+- 1653\. Minimum Deletions to Make String Balanced 문제 풀이 완료(20240730)
