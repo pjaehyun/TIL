@@ -640,3 +640,4 @@
 - 1653\. Minimum Deletions to Make String Balanced 문제 풀이 완료(20240730)
 - 1105\. Filling Bookcase Shelves 문제 풀이 완료(20240731)
 - 2678\. Number of Senior Citizens 문제 풀이 완료(20240801)
+- 2134\. Minimum Swaps to Group All 1's Together II 문제 풀이 완료(20240802)
