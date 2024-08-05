@@ -643,3 +643,4 @@
 - 2134\. Minimum Swaps to Group All 1's Together II 문제 풀이 완료(20240802)
 - 1460\. Make Two Arrays Equal by Reversing Subarrays 문제 풀이 완료(20240803)
 - 1508\. Range Sum of Sorted Subarray Sums 문제 풀이 완료(20240804)
+- 2053\. Kth Distinct String in an Array 문제 풀이 완료(20240805)
