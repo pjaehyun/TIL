@@ -644,3 +644,4 @@
 - 1460\. Make Two Arrays Equal by Reversing Subarrays 문제 풀이 완료(20240803)
 - 1508\. Range Sum of Sorted Subarray Sums 문제 풀이 완료(20240804)
 - 2053\. Kth Distinct String in an Array 문제 풀이 완료(20240805)
+- 3016\. Minimum Number of Pushes to Type Word II 문제 풀이 완료(20240806)
