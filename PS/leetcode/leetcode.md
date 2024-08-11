@@ -649,3 +649,4 @@
 - 885\. Spiral Matrix III 문제 풀이 완료(20240808)
 - 840\. Magic Squares In Grid 문제 풀이 완료(20240809)
 - 959\. Regions Cut By Slashes 문제 풀이 완료(20240810)
+- 1568\. Minimum Number of Days to Disconnect Island 문제 풀이 완료(20240811)
