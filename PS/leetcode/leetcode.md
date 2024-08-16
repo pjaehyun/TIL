@@ -653,3 +653,4 @@
 - 40\. Combination Sum II 문제 풀이 완료(20240813)
 - 719\. Find K-th Smallest Pair Distance 문제 풀이 완료(20240814)
 - 860\. Lemonade Change 문제 풀이 완료(20240815)
+- 624\. Maximum Distance in Arrays 문제 풀이 완료(20240816)
