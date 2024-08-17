@@ -654,3 +654,4 @@
 - 719\. Find K-th Smallest Pair Distance 문제 풀이 완료(20240814)
 - 860\. Lemonade Change 문제 풀이 완료(20240815)
 - 624\. Maximum Distance in Arrays 문제 풀이 완료(20240816)
+- 1937\. Maximum Number of Points with Cost 문제 풀이 완료(20240817)
