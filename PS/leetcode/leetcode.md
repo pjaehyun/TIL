@@ -656,3 +656,4 @@
 - 624\. Maximum Distance in Arrays 문제 풀이 완료(20240816)
 - 1937\. Maximum Number of Points with Cost 문제 풀이 완료(20240817)
 - 264\. Ugly Number II 문제 풀이 완료(20240818)
+- 650\. 2 Keys Keyboard 문제 풀이 완료(20240819)
