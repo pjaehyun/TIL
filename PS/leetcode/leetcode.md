@@ -659,3 +659,4 @@
 - 650\. 2 Keys Keyboard 문제 풀이 완료(20240819)
 - 476\. Number Complement 문제 풀이 완료(20240822)
 - 592\. Fraction Addition and Subtraction 문제 풀이 완료(20240823)
+- 564\. Find the Closest Palindrome 문제 풀이 완료(20240824)
