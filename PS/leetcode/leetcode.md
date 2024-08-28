@@ -661,3 +661,4 @@
 - 592\. Fraction Addition and Subtraction 문제 풀이 완료(20240823)
 - 564\. Find the Closest Palindrome 문제 풀이 완료(20240824)
 - 590\. N-ary Tree Postorder Traversal 문제 풀이 완료(20240826)
+- 1905\. Count Sub Islands 문제 풀이 완료(20240828)
