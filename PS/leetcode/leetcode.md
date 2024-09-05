@@ -666,3 +666,4 @@
 - 1894\. Find the Student that Will Replace the Chalk 문제 풀이 완료(20240902)
 - 1945\. Sum of Digits of String After Convert 문제 풀이 완료(20240903)
 - 874\. Walking Robot Simulation 문제 풀이 완료(20240904)
+- 2028\. Find Missing Observations 문제 풀이 완료(20240905)
