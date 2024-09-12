@@ -672,3 +672,4 @@
 - 2326\. Spiral Matrix IV 문제 풀이 완료(20240909)
 - 2807\. Insert Greatest Common Divisors in Linked List 문제 풀이 완료(20240910)
 - 2220\. Minimum Bit Flips to Convert Number 문제 풀이 완료(20240911)
+- 1684\. Count the Number of Consistent Strings 문제 풀이 완료(20240912)
