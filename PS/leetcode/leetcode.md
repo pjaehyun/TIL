@@ -674,3 +674,4 @@
 - 2220\. Minimum Bit Flips to Convert Number 문제 풀이 완료(20240911)
 - 1684\. Count the Number of Consistent Strings 문제 풀이 완료(20240912)
 - 1310\. XOR Queries of a Subarray 문제 풀이 완료(20240913)
+- 2419\. Longest Subarray With Maximum Bitwise AND 문제 풀이 완료(20240914)
