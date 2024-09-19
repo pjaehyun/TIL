@@ -679,3 +679,4 @@
 - 539\. Minimum Time Difference 문제 풀이 완료(20240916)
 - 884\. Uncommon Words from Two Sentences 문제 풀이 완료(20240917)
 - 179\. Largest Number 문제 풀이 완료(20240918)
+- 241\. Different Ways to Add Parentheses 문제 풀이 완료(20240919)
