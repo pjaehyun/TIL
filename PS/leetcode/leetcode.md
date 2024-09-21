@@ -681,3 +681,4 @@
 - 179\. Largest Number 문제 풀이 완료(20240918)
 - 241\. Different Ways to Add Parentheses 문제 풀이 완료(20240919)
 - 214\. Shortest Palindrome 문제 풀이 완료(20240920)
+- 386\. Lexicographical Numbers 문제 풀이 완료(20240921)
