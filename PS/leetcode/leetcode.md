@@ -682,3 +682,4 @@
 - 241\. Different Ways to Add Parentheses 문제 풀이 완료(20240919)
 - 214\. Shortest Palindrome 문제 풀이 완료(20240920)
 - 386\. Lexicographical Numbers 문제 풀이 완료(20240921)
+- 3043\. Find the Length of the Longest Common Prefix 문제 풀이 완료(20240924)
