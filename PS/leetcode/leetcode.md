@@ -685,3 +685,4 @@
 - 3043\. Find the Length of the Longest Common Prefix 문제 풀이 완료(20240924)
 - 641\. Design Circular Deque 문제 풀이 완료(20240928)
 - 432\. All O`one Data Structure 문제 풀이 완료(20240929)
+- 1381\. Design a Stack With Increment Operation 문제 풀이 완료(20240930)
