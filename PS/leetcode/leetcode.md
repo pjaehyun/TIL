@@ -686,3 +686,4 @@
 - 641\. Design Circular Deque 문제 풀이 완료(20240928)
 - 432\. All O`one Data Structure 문제 풀이 완료(20240929)
 - 1381\. Design a Stack With Increment Operation 문제 풀이 완료(20240930)
+- 1331\. Rank Transform of an Array 문제 풀이 완료(20241002)
