@@ -688,3 +688,4 @@
 - 1381\. Design a Stack With Increment Operation 문제 풀이 완료(20240930)
 - 1331\. Rank Transform of an Array 문제 풀이 완료(20241002)
 - 1813\. Sentence Similarity III 문제 풀이 완료(20241006)
+- 962\. Maximum Width Ramp 문제 풀이 완료(20241010)
