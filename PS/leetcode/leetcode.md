@@ -689,3 +689,4 @@
 - 1331\. Rank Transform of an Array 문제 풀이 완료(20241002)
 - 1813\. Sentence Similarity III 문제 풀이 완료(20241006)
 - 962\. Maximum Width Ramp 문제 풀이 완료(20241010)
+- 1942\. The Number of the Smallest Unoccupied Chair 문제 풀이 완료(20241011)
