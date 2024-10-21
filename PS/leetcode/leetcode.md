@@ -694,3 +694,4 @@
 - 1405\. Longest Happy String 문제 풀이 완료(20241016)
 - 670\. Maximum Swap 문제 풀이 완료(20241017)
 - 2044\. Count Number of Maximum Bitwise-OR Subsets 문제 풀이 완료(20241018)
+- 1593\. Split a String Into the Max Number of Unique Substrings 문제 풀이 완료(20241021)
