@@ -697,3 +697,4 @@
 - 1593\. Split a String Into the Max Number of Unique Substrings 문제 풀이 완료(20241021)
 - 2583\. Kth Largest Sum in a Binary Tree 문제 풀이 완료(20241022)
 - 2641\. Cousins in Binary Tree II 문제 풀이 완료(20241023)
+- 1233\. Remove Sub-Folders from the Filesystem 문제 풀이 완료(20241025)
