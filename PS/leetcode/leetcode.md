@@ -698,3 +698,4 @@
 - 2583\. Kth Largest Sum in a Binary Tree 문제 풀이 완료(20241022)
 - 2641\. Cousins in Binary Tree II 문제 풀이 완료(20241023)
 - 1233\. Remove Sub-Folders from the Filesystem 문제 풀이 완료(20241025)
+- 2458\. Height of Binary Tree After Subtree Removal Queries 문제 풀이 완료(20241026)
