@@ -700,3 +700,4 @@
 - 1233\. Remove Sub-Folders from the Filesystem 문제 풀이 완료(20241025)
 - 2458\. Height of Binary Tree After Subtree Removal Queries 문제 풀이 완료(20241026)
 - 1277\. Count Square Submatrices with All Ones 문제 풀이 완료(20241027)
+- 2501\. Longest Square Streak in an Array 문제 풀이 완료(20241028)
