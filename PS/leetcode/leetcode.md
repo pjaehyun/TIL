@@ -703,3 +703,4 @@
 - 2501\. Longest Square Streak in an Array 문제 풀이 완료(20241028)
 - 2684\. Maximum Number of Moves in a Grid 문제 풀이 완료(20241029)
 - 1671\. Minimum Number of Removals to Make Mountain Array 문제 풀이 완료(20241030)
+- 2463\. Minimum Total Distance Traveled 문제 풀이 완료(20241031)
