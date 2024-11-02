@@ -705,3 +705,4 @@
 - 1671\. Minimum Number of Removals to Make Mountain Array 문제 풀이 완료(20241030)
 - 2463\. Minimum Total Distance Traveled 문제 풀이 완료(20241031)
 - 1957\. Delete Characters to Make Fancy String 문제 풀이 완료(20241101)
+- 2490\. Circular Sentence 문제 풀이 완료(20241102)
