@@ -707,3 +707,4 @@
 - 1957\. Delete Characters to Make Fancy String 문제 풀이 완료(20241101)
 - 2490\. Circular Sentence 문제 풀이 완료(20241102)
 - 796\. Rotate String 문제 풀이 완료(20241103)
+- 3163\. String Compression III 문제 풀이 완료(20241104)
