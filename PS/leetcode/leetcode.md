@@ -713,3 +713,4 @@
 - 2275\. Largest Combination With Bitwise AND Greater Than Zero 문제 풀이 완료(20241107)
 - 1829\. Maximum XOR for Each Query 문제 풀이 완료(20241108)
 - 3133\. Minimum Array End 문제 풀이 완료(20241109)
+- 3097\. Shortest Subarray With OR at Least K II 문제 풀이 완료(20241110)
