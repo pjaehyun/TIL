@@ -715,3 +715,4 @@
 - 3133\. Minimum Array End 문제 풀이 완료(20241109)
 - 3097\. Shortest Subarray With OR at Least K II 문제 풀이 완료(20241110)
 - 2601\. Prime Subtraction Operation 문제 풀이 완료(20241111)
+- 2070\. Most Beautiful Item for Each Query 문제 풀이 완료(20241112)
