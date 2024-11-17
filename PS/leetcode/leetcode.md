@@ -720,3 +720,4 @@
 - 2064\. Minimized Maximum of Products Distributed to Any Store 문제 풀이 완료(20241114)
 - 1574\. Shortest Subarray to be Removed to Make Array Sorted 문제 풀이 완료(20241115)
 - 3254\. Find the Power of K-Size Subarrays I 문제 풀이 완료(20241116)
+- 862\. Shortest Subarray with Sum at Least K 문제 풀이 완료(20241117)
