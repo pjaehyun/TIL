@@ -722,3 +722,4 @@
 - 3254\. Find the Power of K-Size Subarrays I 문제 풀이 완료(20241116)
 - 862\. Shortest Subarray with Sum at Least K 문제 풀이 완료(20241117)
 - 1652\. Defuse the Bomb 문제 풀이 완료(20241118)
+- 2461\. Maximum Sum of Distinct Subarrays With Length K 문제 풀이 완료(20241119)
