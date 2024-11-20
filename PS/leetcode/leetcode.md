@@ -723,3 +723,4 @@
 - 862\. Shortest Subarray with Sum at Least K 문제 풀이 완료(20241117)
 - 1652\. Defuse the Bomb 문제 풀이 완료(20241118)
 - 2461\. Maximum Sum of Distinct Subarrays With Length K 문제 풀이 완료(20241119)
+- 2516\. Take K of Each Character From Left and Right 문제 풀이 완료(20241120)
