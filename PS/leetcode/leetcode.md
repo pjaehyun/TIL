@@ -726,3 +726,4 @@
 - 2516\. Take K of Each Character From Left and Right 문제 풀이 완료(20241120)
 - 2257\. Count Unguarded Cells in the Grid 문제 풀이 완료(20241121)
 - 1072\. Flip Columns For Maximum Number of Equal Rows 문제 풀이 완료(20241122)
+- 1861\. Rotating the Box 문제 풀이 완료 (20241123)
