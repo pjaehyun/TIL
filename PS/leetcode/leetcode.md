@@ -728,3 +728,4 @@
 - 1072\. Flip Columns For Maximum Number of Equal Rows 문제 풀이 완료(20241122)
 - 1861\. Rotating the Box 문제 풀이 완료 (20241123)
 - 1975\. Maximum Matrix Sum 문제 풀이 완료(20241124)
+- 773\. Sliding Puzzle 문제 풀이 완료(20241125)
