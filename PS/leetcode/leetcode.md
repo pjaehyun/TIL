@@ -730,3 +730,4 @@
 - 1975\. Maximum Matrix Sum 문제 풀이 완료(20241124)
 - 773\. Sliding Puzzle 문제 풀이 완료(20241125)
 - 2924\. Find Champion II 문제 풀이 완료(20241126)
+- 3243\. Shortest Distance After Road Addition Queries I 문제 풀이 완료(20241127)
