@@ -265,4 +265,3 @@
 - 17391\. 무한부스터 문제 풀이 완료(20241126)
 - 18243\. Small World Network 문제 풀이 완료(20241126)
 - 5107\. 마니또 문제 풀이 완료(20241127)
-- 2290\. Minimum Obstacle Removal to Reach Corner 문제 풀이 완료(20241128)
