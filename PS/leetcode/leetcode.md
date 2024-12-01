@@ -734,3 +734,4 @@
 - 2290\. Minimum Obstacle Removal to Reach Corner 문제 풀이 완료(20241128)
 - 2577\. Minimum Time to Visit a Cell In a Grid 문제 풀이 완료(20241129)
 - 2097\. Valid Arrangement of Pairs 문제 풀이 완료(20241130)
+- 1346\. Check If N and Its Double Exist 문제 풀이 완료(20241201)
