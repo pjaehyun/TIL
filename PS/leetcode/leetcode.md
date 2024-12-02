@@ -735,3 +735,4 @@
 - 2577\. Minimum Time to Visit a Cell In a Grid 문제 풀이 완료(20241129)
 - 2097\. Valid Arrangement of Pairs 문제 풀이 완료(20241130)
 - 1346\. Check If N and Its Double Exist 문제 풀이 완료(20241201)
+- 1455\. Check If a Word Occurs As a Prefix of Any Word in a Sentence 문제 풀이 완료(20241202)
