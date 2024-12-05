@@ -738,3 +738,4 @@
 - 1455\. Check If a Word Occurs As a Prefix of Any Word in a Sentence 문제 풀이 완료(20241202)
 - 2109\. Adding Spaces to a String 문제 풀이 완료(20241203)
 - 2825\. Make String a Subsequence Using Cyclic Increments 문제 풀이 완료(20241204)
+- 2337\. Move Pieces to Obtain a String 문제 풀이 완료(20241205)
