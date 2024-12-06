@@ -739,3 +739,4 @@
 - 2109\. Adding Spaces to a String 문제 풀이 완료(20241203)
 - 2825\. Make String a Subsequence Using Cyclic Increments 문제 풀이 완료(20241204)
 - 2337\. Move Pieces to Obtain a String 문제 풀이 완료(20241205)
+- 2554\. Maximum Number of Integers to Choose From a Range I 문제 풀이 완료(20241206)
