@@ -741,3 +741,4 @@
 - 2337\. Move Pieces to Obtain a String 문제 풀이 완료(20241205)
 - 2554\. Maximum Number of Integers to Choose From a Range I 문제 풀이 완료(20241206)
 - 1760\. Minimum Limit of Balls in a Bag 문제 풀이 완료(20241207)
+- 2054\. Two Best Non-Overlapping Events 문제 풀이 완료(20241208)
