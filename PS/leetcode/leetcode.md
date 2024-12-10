@@ -743,3 +743,4 @@
 - 1760\. Minimum Limit of Balls in a Bag 문제 풀이 완료(20241207)
 - 2054\. Two Best Non-Overlapping Events 문제 풀이 완료(20241208)
 - 3152\. Special Array II 문제 풀이 완료(20241209)
+- 2981\. Find Longest Special Substring That Occurs Thrice I 문제 풀이 완료(20241210)
