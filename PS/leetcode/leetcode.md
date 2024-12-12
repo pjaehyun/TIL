@@ -745,3 +745,4 @@
 - 3152\. Special Array II 문제 풀이 완료(20241209)
 - 2981\. Find Longest Special Substring That Occurs Thrice I 문제 풀이 완료(20241210)
 - 2779\. Maximum Beauty of an Array After Applying Operation 문제 풀이 완료(20241211)
+- 2558\. Take Gifts From the Richest Pile 문제 풀이 완료(20241212)
