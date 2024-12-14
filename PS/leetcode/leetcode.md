@@ -747,3 +747,4 @@
 - 2779\. Maximum Beauty of an Array After Applying Operation 문제 풀이 완료(20241211)
 - 2558\. Take Gifts From the Richest Pile 문제 풀이 완료(20241212)
 - 2593\. Find Score of an Array After Marking All Elements 문제 풀이 완료(20241213)
+- 2762\. Continuous Subarrays 문제 풀이 완료(20241214)
