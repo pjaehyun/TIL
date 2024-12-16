@@ -749,3 +749,4 @@
 - 2593\. Find Score of an Array After Marking All Elements 문제 풀이 완료(20241213)
 - 2762\. Continuous Subarrays 문제 풀이 완료(20241214)
 - 1792\. Maximum Average Pass Ratio 문제 풀이 완료(20241215)
+- 3264\. Final Array State After K Multiplication Operations I 문제 풀이 완료(20241216)
