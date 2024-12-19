@@ -752,3 +752,4 @@
 - 3264\. Final Array State After K Multiplication Operations I 문제 풀이 완료(20241216)
 - 2182\. Construct String With Repeat Limit 문제 풀이 완료(20241217)
 - 1475\. Final Prices With a Special Discount in a Shop 문제 풀이 완료(20241218)
+- 769\. Max Chunks To Make Sorted 문제 풀이 완료(20241219)
