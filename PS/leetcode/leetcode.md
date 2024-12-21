@@ -754,3 +754,4 @@
 - 1475\. Final Prices With a Special Discount in a Shop 문제 풀이 완료(20241218)
 - 769\. Max Chunks To Make Sorted 문제 풀이 완료(20241219)
 - 2415\. Reverse Odd Levels of Binary Tree 문제 풀이 완료(20241220)
+- 2872\. Maximum Number of K-Divisible Components 문제 풀이 완료(20241221)
