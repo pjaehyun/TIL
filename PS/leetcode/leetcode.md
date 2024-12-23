@@ -756,3 +756,4 @@
 - 2415\. Reverse Odd Levels of Binary Tree 문제 풀이 완료(20241220)
 - 2872\. Maximum Number of K-Divisible Components 문제 풀이 완료(20241221)
 - 2940\. Find Building Where Alice and Bob Can Meet 문제 풀이 완료(20241222)
+- 2471\. Minimum Number of Operations to Sort a Binary Tree by Level 문제 풀이 완료(20241223)
