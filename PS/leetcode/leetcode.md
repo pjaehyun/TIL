@@ -758,3 +758,4 @@
 - 2940\. Find Building Where Alice and Bob Can Meet 문제 풀이 완료(20241222)
 - 2471\. Minimum Number of Operations to Sort a Binary Tree by Level 문제 풀이 완료(20241223)
 - 3203\. Find Minimum Diameter After Merging Two Trees 문제 풀이 완료(20241224)
+- 494\. Target Sum 문제 풀이 완료(20241226)
