@@ -760,3 +760,4 @@
 - 3203\. Find Minimum Diameter After Merging Two Trees 문제 풀이 완료(20241224)
 - 494\. Target Sum 문제 풀이 완료(20241226)
 - 1014\. Best Sightseeing Pair 문제 풀이 완료(20241227)
+- 689\. Maximum Sum of 3 Non-Overlapping Subarrays 문제 풀이 완료(20241228)
