@@ -763,3 +763,4 @@
 - 689\. Maximum Sum of 3 Non-Overlapping Subarrays 문제 풀이 완료(20241228)
 - 2559\. Count Vowel Strings in Ranges 문제 풀이 완료(20240102)
 - 2270\. Number of Ways to Split Array 문제 풀이 완료(20240103)
+- 2381\. Shifting Letters II 문제 풀이 완료(20240105)
