@@ -766,3 +766,4 @@
 - 2381\. Shifting Letters II 문제 풀이 완료(20250105)
 - 1769\. Minimum Number of Operations to Move All Balls to Each Box 문제 풀이 완료(20250106)
 - 1408\. String Matching in an Array 문제 풀이 완료(20250107)
+- 3042\. Count Prefix and Suffix Pairs I 문제 풀이 완료(20250108)
