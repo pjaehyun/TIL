@@ -771,3 +771,4 @@
 - 916\. Word Subsets 문제 풀이 완료(20250110)
 - 1400\. Construct K Palindrome Strings 문제 풀이 완료(20250111)
 - 2116\. Check if a Parentheses String Can Be Valid 문제 풀이 완료(20250112)
+- 3223\. Minimum Length of String After Operations 문제 풀이 완료(20250113)
