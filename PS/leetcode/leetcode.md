@@ -774,3 +774,4 @@
 - 3223\. Minimum Length of String After Operations 문제 풀이 완료(20250113)
 - 2657\. Find the Prefix Common Array of Two Arrays 문제 풀이 완료(20250114)
 - 2429\. Minimize XOR 문제 풀이 완료(20250115)
+- 2425\. Bitwise XOR of All Pairings 문제 풀이 완료(20250116)
