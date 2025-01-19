@@ -777,3 +777,4 @@
 - 2425\. Bitwise XOR of All Pairings 문제 풀이 완료(20250116)
 - 2683\. Neighboring Bitwise XOR 문제 풀이 완료(20250117)
 - 1368\. Minimum Cost to Make at Least One Valid Path in a Grid 문제 풀이 완료(20250118)
+- 407\. Trapping Rain Water II 문제 풀이 완료(20250119)
