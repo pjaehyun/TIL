@@ -778,3 +778,4 @@
 - 2683\. Neighboring Bitwise XOR 문제 풀이 완료(20250117)
 - 1368\. Minimum Cost to Make at Least One Valid Path in a Grid 문제 풀이 완료(20250118)
 - 407\. Trapping Rain Water II 문제 풀이 완료(20250119)
+- 2661\. First Completely Painted Row or Column 문제 풀이 완료(20250120)
