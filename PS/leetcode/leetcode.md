@@ -779,3 +779,4 @@
 - 1368\. Minimum Cost to Make at Least One Valid Path in a Grid 문제 풀이 완료(20250118)
 - 407\. Trapping Rain Water II 문제 풀이 완료(20250119)
 - 2661\. First Completely Painted Row or Column 문제 풀이 완료(20250120)
+- 2017\. Grid Game 문제 풀이 완료(20250121)
