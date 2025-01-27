@@ -784,3 +784,4 @@
 - 1267\. Count Servers that Communicate 문제 풀이 완료(20250123)
 - 2948\. Make Lexicographically Smallest Array by Swapping Elements 문제 풀이 완료(20250125)
 - 2127\. Maximum Employees to Be Invited to a Meeting 문제 풀이 완료(20250126)
+- 1462\. Course Schedule IV 문제 풀이 완료(20250127)
