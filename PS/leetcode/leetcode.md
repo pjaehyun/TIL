@@ -786,3 +786,4 @@
 - 2127\. Maximum Employees to Be Invited to a Meeting 문제 풀이 완료(20250126)
 - 1462\. Course Schedule IV 문제 풀이 완료(20250127)
 - 2658\. Maximum Number of Fish in a Grid 문제 풀이 완료(20250128)
+- 684\. Redundant Connection 문제 풀이 완료(20250129)
