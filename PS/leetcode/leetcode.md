@@ -787,3 +787,4 @@
 - 1462\. Course Schedule IV 문제 풀이 완료(20250127)
 - 2658\. Maximum Number of Fish in a Grid 문제 풀이 완료(20250128)
 - 684\. Redundant Connection 문제 풀이 완료(20250129)
+- 2493\. Divide Nodes Into the Maximum Number of Groups 문제 풀이 완료(20250130)
