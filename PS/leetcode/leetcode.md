@@ -788,3 +788,4 @@
 - 2658\. Maximum Number of Fish in a Grid 문제 풀이 완료(20250128)
 - 684\. Redundant Connection 문제 풀이 완료(20250129)
 - 2493\. Divide Nodes Into the Maximum Number of Groups 문제 풀이 완료(20250130)
+- 827\. Making A Large Island 문제 풀이 완료(20250131)
