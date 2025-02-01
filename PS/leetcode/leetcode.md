@@ -789,3 +789,4 @@
 - 684\. Redundant Connection 문제 풀이 완료(20250129)
 - 2493\. Divide Nodes Into the Maximum Number of Groups 문제 풀이 완료(20250130)
 - 827\. Making A Large Island 문제 풀이 완료(20250131)
+- 3151\. Special Array I 문제 풀이 완료(20250201)
