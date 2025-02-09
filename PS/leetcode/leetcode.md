@@ -796,3 +796,4 @@
 - 1790\. Check if One String Swap Can Make Strings Equal 문제 풀이 완료(20250205)
 - 3160\. Find the Number of Distinct Colors Among the Balls 문제 풀이 완료(20250207)
 - 2349\. Design a Number Container System 문제 풀이 완료(20250208)
+- 2364\. Count Number of Bad Pairs 문제 풀이 완료(20250209)
