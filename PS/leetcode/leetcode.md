@@ -800,3 +800,4 @@
 - 3174\. Clear Digits 문제 풀이 완료(20250210)
 - 1910\. Remove All Occurrences of a Substring 문제 풀이 완료(20250211)
 - 2342\. Max Sum of a Pair With Equal Sum of Digits 문제 풀이 완료(20250212)
+- 3066\. Minimum Operations to Exceed Threshold Value II 문제 풀이 완료(20250213)
