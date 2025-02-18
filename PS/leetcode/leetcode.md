@@ -804,3 +804,4 @@
 - 1352\. Product of the Last K Numbers 문제 풀이 완료(20250214)
 - 1718\. Construct the Lexicographically Largest Valid Sequence 문제 풀이 완료(20250216)
 - 1079\. Letter Tile Possibilities 문제 풀이 완료(20250217)
+- 2375\. Construct Smallest Number From DI String 문제 풀이 완료(20250218)
