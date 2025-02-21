@@ -806,3 +806,4 @@
 - 1079\. Letter Tile Possibilities 문제 풀이 완료(20250217)
 - 2375\. Construct Smallest Number From DI String 문제 풀이 완료(20250218)
 - 1415\. The k-th Lexicographical String of All Happy Strings of Length n 문제 풀이 완료(20250219)
+- 1261\. Find Elements in a Contaminated Binary Tree 문제 풀이 완료(20250221)
