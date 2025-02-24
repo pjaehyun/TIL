@@ -809,3 +809,4 @@
 - 1261\. Find Elements in a Contaminated Binary Tree 문제 풀이 완료(20250221)
 - 1028\. Recover a Tree From Preorder Traversal 문제 풀이 완료(20250222)
 - 889\. Construct Binary Tree from Preorder and Postorder Traversal 문제 풀이 완료(20250223)
+- 2467\. Most Profitable Path in a Tree 문제 풀이 완료(20250224)
