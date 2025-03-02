@@ -814,3 +814,4 @@
 - 1749\. Maximum Absolute Sum of Any Subarray 문제 풀이 완료(20250226)
 - 873\. Length of Longest Fibonacci Subsequence 문제 풀이 완료(20250227)
 - 2460\. Apply Operations to an Array 문제 풀이 완료(20250301)
+- 2570\. Merge Two 2D Arrays by Summing Values 문제 풀이 완료(20250302)
