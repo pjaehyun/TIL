@@ -815,3 +815,4 @@
 - 873\. Length of Longest Fibonacci Subsequence 문제 풀이 완료(20250227)
 - 2460\. Apply Operations to an Array 문제 풀이 완료(20250301)
 - 2570\. Merge Two 2D Arrays by Summing Values 문제 풀이 완료(20250302)
+- 2161\. Partition Array According to Given Pivot 문제 풀이 완료(20250303)
