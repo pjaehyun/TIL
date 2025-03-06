@@ -818,3 +818,4 @@
 - 2161\. Partition Array According to Given Pivot 문제 풀이 완료(20250303)
 - 1780\. Check if Number is a Sum of Powers of Three 문제 풀이 완료(20250304)
 - 2579\. Count Total Number of Colored Cells 문제 풀이 완료(20250305)
+- 2965\. Find Missing and Repeated Values 문제 풀이 완료(20250306)
