@@ -820,3 +820,4 @@
 - 2579\. Count Total Number of Colored Cells 문제 풀이 완료(20250305)
 - 2965\. Find Missing and Repeated Values 문제 풀이 완료(20250306)
 - 2523\. Closest Prime Numbers in Range 문제 풀이 완료(20250307)
+- 2379\. Minimum Recolors to Get K Consecutive Black Blocks 문제 풀이 완료(20250308)
