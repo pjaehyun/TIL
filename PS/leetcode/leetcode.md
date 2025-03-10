@@ -822,3 +822,4 @@
 - 2523\. Closest Prime Numbers in Range 문제 풀이 완료(20250307)
 - 2379\. Minimum Recolors to Get K Consecutive Black Blocks 문제 풀이 완료(20250308)
 - 3208\. Alternating Groups II 문제 풀이 완료(20250309)
+- 3306\. Count of Substrings Containing Every Vowel and K Consonants II 문제 풀이 완료(20250310)
