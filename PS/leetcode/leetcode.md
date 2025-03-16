@@ -827,3 +827,4 @@
 - 3356\. Zero Array Transformation II 문제 풀이 완료(20250313)
 - 2226\. Maximum Candies Allocated to K Children 문제 풀이 완료(20250314)
 - 2560\. House Robber IV 문제 풀이 완료(20250315)
+- 2594\. Minimum Time to Repair Cars 문제 풀이 완료(20250316)
