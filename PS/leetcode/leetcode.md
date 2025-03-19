@@ -830,3 +830,4 @@
 - 2594\. Minimum Time to Repair Cars 문제 풀이 완료(20250316)
 - 2206\. Divide Array Into Equal Pairs 문제 풀이 완료(20250317)
 - 2401\. Longest Nice Subarray 문제 풀이 완료(20250318)
+- 3191\. Minimum Operations to Make Binary Array Elements Equal to One I 문제 풀이 완료(20250319)
