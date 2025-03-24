@@ -835,3 +835,4 @@
 - 2115\. Find All Possible Recipes from Given Supplies 문제 풀이 완료(20250321)
 - 2685\. Count the Number of Complete Components 문제 풀이 완료(20250322)
 - 1976\. Number of Ways to Arrive at Destination 문제 풀이 완료(20250323)
+- 3169\. Count Days Without Meetings 문제 풀이 완료(20250324)
