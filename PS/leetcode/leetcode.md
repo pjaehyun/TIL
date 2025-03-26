@@ -837,3 +837,4 @@
 - 1976\. Number of Ways to Arrive at Destination 문제 풀이 완료(20250323)
 - 3169\. Count Days Without Meetings 문제 풀이 완료(20250324)
 - 3394\. Check if Grid can be Cut into Sections 문제 풀이 완료(20250325)
+- 2033\. Minimum Operations to Make a Uni-Value Grid 문제 풀이 완료(20250326)
