@@ -838,3 +838,4 @@
 - 3169\. Count Days Without Meetings 문제 풀이 완료(20250324)
 - 3394\. Check if Grid can be Cut into Sections 문제 풀이 완료(20250325)
 - 2033\. Minimum Operations to Make a Uni-Value Grid 문제 풀이 완료(20250326)
+- 2780\. Minimum Index of a Valid Split 문제 풀이 완료(20250327)
