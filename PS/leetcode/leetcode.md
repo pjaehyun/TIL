@@ -839,3 +839,4 @@
 - 3394\. Check if Grid can be Cut into Sections 문제 풀이 완료(20250325)
 - 2033\. Minimum Operations to Make a Uni-Value Grid 문제 풀이 완료(20250326)
 - 2780\. Minimum Index of a Valid Split 문제 풀이 완료(20250327)
+- 2503\. Maximum Number of Points From Grid Queries 문제 풀이 완료(20250328)
