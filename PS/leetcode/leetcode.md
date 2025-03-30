@@ -841,3 +841,4 @@
 - 2780\. Minimum Index of a Valid Split 문제 풀이 완료(20250327)
 - 2503\. Maximum Number of Points From Grid Queries 문제 풀이 완료(20250328)
 - 2818\. Apply Operations to Maximize Score 문제 풀이 완료(20250329)
+- 763\. Partition Labels 문제 풀이 완료(20250330)
