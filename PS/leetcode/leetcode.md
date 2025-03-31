@@ -842,3 +842,4 @@
 - 2503\. Maximum Number of Points From Grid Queries 문제 풀이 완료(20250328)
 - 2818\. Apply Operations to Maximize Score 문제 풀이 완료(20250329)
 - 763\. Partition Labels 문제 풀이 완료(20250330)
+- 2551\. Put Marbles in Bags 문제 풀이 완료(20250331)
