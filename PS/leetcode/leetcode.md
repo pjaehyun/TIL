@@ -843,3 +843,4 @@
 - 2818\. Apply Operations to Maximize Score 문제 풀이 완료(20250329)
 - 763\. Partition Labels 문제 풀이 완료(20250330)
 - 2551\. Put Marbles in Bags 문제 풀이 완료(20250331)
+- 2873\. Maximum Value of an Ordered Triplet I 문제 풀이 완료(20250402)
