@@ -844,3 +844,4 @@
 - 763\. Partition Labels 문제 풀이 완료(20250330)
 - 2551\. Put Marbles in Bags 문제 풀이 완료(20250331)
 - 2873\. Maximum Value of an Ordered Triplet I 문제 풀이 완료(20250402)
+- 2874\. Maximum Value of an Ordered Triplet II 문제 풀이 완료(20250403)
