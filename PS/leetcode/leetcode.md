@@ -846,3 +846,4 @@
 - 2873\. Maximum Value of an Ordered Triplet I 문제 풀이 완료(20250402)
 - 2874\. Maximum Value of an Ordered Triplet II 문제 풀이 완료(20250403)
 - 1123\. Lowest Common Ancestor of Deepest Leaves 문제 풀이 완료(20250404)
+- 416\. Partition Equal Subset Sum 문제 풀이 완료(20250407)
