@@ -850,3 +850,4 @@
 - 3396\. Minimum Number of Operations to Make Elements in Array Distinct 문제 풀이 완료(20250408)
 - 3375\. Minimum Operations to Make Array Values Equal to K 문제 풀이 완료(20250409)
 - 2999\. Count the Number of Powerful Integers 문제 풀이 완료(20250410)
+- 2843\. Count Symmetric Integers 문제 풀이 완료(20250411)
