@@ -853,3 +853,4 @@
 - 2843\. Count Symmetric Integers 문제 풀이 완료(20250411)
 - 3272\. Find the Count of Good Integers 문제 풀이 완료(20250412)
 - 1922\. Count Good Numbers 문제 풀이 완료(20250413)
+- 1534\. Count Good Triplets 문제 풀이 완료(20250414)
