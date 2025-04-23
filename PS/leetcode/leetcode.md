@@ -856,3 +856,4 @@
 - 1534\. Count Good Triplets 문제 풀이 완료(20250414)
 - 2176\. Count Equal and Divisible Pairs in an Array 문제 풀이 완료(20250417)
 - 781\. Rabbits in Forest 문제 풀이 완료(20250420)
+- 1399\. Count Largest Group 문제 풀이 완료(20250423)
