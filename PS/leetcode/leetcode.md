@@ -859,3 +859,4 @@
 - 1399\. Count Largest Group 문제 풀이 완료(20250423)
 - 2799\. Count Complete Subarrays in an Array 문제 풀이 완료(20250424)
 - 2845\. Count of Interesting Subarrays 문제 풀이 완료(20250425)
+- 3392\. Count Subarrays of Length Three With a Condition 문제 풀이 완료(20250427)
