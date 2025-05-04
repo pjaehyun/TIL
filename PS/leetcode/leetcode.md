@@ -864,3 +864,4 @@
 - 1295\. Find Numbers with Even Number of Digits 문제 풀이 완료(20250430)
 - 2071\. Maximum Number of Tasks You Can Assign 문제 풀이 완료(20250501)
 - 1007\. Minimum Domino Rotations For Equal Row 문제 풀이 완료(20250403)
+- 1128\. Number of Equivalent Domino Pairs 문제 풀이 완료(20250504)
