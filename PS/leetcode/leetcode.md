@@ -866,3 +866,4 @@
 - 1007\. Minimum Domino Rotations For Equal Row 문제 풀이 완료(20250503)
 - 1128\. Number of Equivalent Domino Pairs 문제 풀이 완료(20250504)
 - 1920\. Build Array from Permutation 문제 풀이 완료(20250506)
+- 3341\. Find Minimum Time to Reach Last Room I 문제 풀이 완료(20250507)
