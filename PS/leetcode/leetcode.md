@@ -868,3 +868,4 @@
 - 1920\. Build Array from Permutation 문제 풀이 완료(20250506)
 - 3341\. Find Minimum Time to Reach Last Room I 문제 풀이 완료(20250507)
 - 3342\. Find Minimum Time to Reach Last Room II 문제 풀이 완료(20250508)
+- 3343\. Count Number of Balanced Permutations 문제 풀이 완료(20250509)
