@@ -870,3 +870,4 @@
 - 3342\. Find Minimum Time to Reach Last Room II 문제 풀이 완료(20250508)
 - 3343\. Count Number of Balanced Permutations 문제 풀이 완료(20250509)
 - 2918\. Minimum Equal Sum of Two Arrays After Replacing Zeros 문제 풀이 완료(20250510)
+- 2094\. Finding 3-Digit Even Numbers 문제 풀이 완료(20250512)
