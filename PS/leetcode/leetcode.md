@@ -871,3 +871,4 @@
 - 3343\. Count Number of Balanced Permutations 문제 풀이 완료(20250509)
 - 2918\. Minimum Equal Sum of Two Arrays After Replacing Zeros 문제 풀이 완료(20250510)
 - 2094\. Finding 3-Digit Even Numbers 문제 풀이 완료(20250512)
+- 3335\. Total Characters in String After Transformations I 문제 풀이 완료(20250513)
