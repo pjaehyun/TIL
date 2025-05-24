@@ -875,3 +875,4 @@
 - 3337\. Total Characters in String After Transformations II 문제 풀이 완료(20250514)
 - 1931\. Painting a Grid With Three Different Colors 문제 풀이 완료(20250518)
 - 3024\. Type of Triangle 문제 풀이 완료(20250519)
+- 2942\. Find Words Containing Character 문제 풀이 완료(20250524)
