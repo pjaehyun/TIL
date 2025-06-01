@@ -877,3 +877,4 @@
 - 3024\. Type of Triangle 문제 풀이 완료(20250519)
 - 2942\. Find Words Containing Character 문제 풀이 완료(20250524)
 - 2894\. Divisible and Non-divisible Sums Difference 문제 풀이 완료(20250527)
+- 2929\. Distribute Candies Among Children II 문제 풀이 완료(20250601)
