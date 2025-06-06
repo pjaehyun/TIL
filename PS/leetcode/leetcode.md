@@ -879,3 +879,4 @@
 - 2894\. Divisible and Non-divisible Sums Difference 문제 풀이 완료(20250527)
 - 2929\. Distribute Candies Among Children II 문제 풀이 완료(20250601)
 - 3403\. Find the Lexicographically Largest String From the Box I 문제 풀이 완료(20250604)
+- 2434\. Using a Robot to Print the Lexicographically Smallest String 문제 풀이 완료(20250606)
