@@ -880,3 +880,4 @@
 - 2929\. Distribute Candies Among Children II 문제 풀이 완료(20250601)
 - 3403\. Find the Lexicographically Largest String From the Box I 문제 풀이 완료(20250604)
 - 2434\. Using a Robot to Print the Lexicographically Smallest String 문제 풀이 완료(20250606)
+- 3170\. Lexicographically Minimum String After Removing Stars 문제 풀이 완료(20250607)
