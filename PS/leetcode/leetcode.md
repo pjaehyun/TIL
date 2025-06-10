@@ -882,3 +882,4 @@
 - 2434\. Using a Robot to Print the Lexicographically Smallest String 문제 풀이 완료(20250606)
 - 3170\. Lexicographically Minimum String After Removing Stars 문제 풀이 완료(20250607)
 - 440\. K-th Smallest in Lexicographical Order 문제 풀이 완료(20250609)
+- 3442\. Maximum Difference Between Even and Odd Frequency I 문제 풀이 완료(20250610)
