@@ -887,3 +887,4 @@
 - 3423\. Maximum Difference Between Adjacent Elements in a Circular Array 문제 풀이 완료(20250612)
 - 2566\. Maximum Difference by Remapping a Digit 문제 풀이 완료(20250614)
 - 1432\. Max Difference You Can Get From Changing an Integer 문제 풀이 완료(20250615)
+- 2016\. Maximum Difference Between Increasing Elements 문제 풀이 완료(20250616)
