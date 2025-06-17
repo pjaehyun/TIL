@@ -888,3 +888,4 @@
 - 2566\. Maximum Difference by Remapping a Digit 문제 풀이 완료(20250614)
 - 1432\. Max Difference You Can Get From Changing an Integer 문제 풀이 완료(20250615)
 - 2016\. Maximum Difference Between Increasing Elements 문제 풀이 완료(20250616)
+- 3405\. Count the Number of Arrays with K Matching Adjacent Elements 문제 풀이 완료(20250617)
