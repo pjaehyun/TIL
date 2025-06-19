@@ -889,3 +889,4 @@
 - 1432\. Max Difference You Can Get From Changing an Integer 문제 풀이 완료(20250615)
 - 2016\. Maximum Difference Between Increasing Elements 문제 풀이 완료(20250616)
 - 3405\. Count the Number of Arrays with K Matching Adjacent Elements 문제 풀이 완료(20250617)
+- 2294\. Partition Array Such That Maximum Difference Is K 문제 풀이 완료(20250619)
