@@ -891,3 +891,4 @@
 - 3405\. Count the Number of Arrays with K Matching Adjacent Elements 문제 풀이 완료(20250617)
 - 2294\. Partition Array Such That Maximum Difference Is K 문제 풀이 완료(20250619)
 - 3443\. Maximum Manhattan Distance After K Changes 문제 풀이 완료(20250620)
+- 3085\. Minimum Deletions to Make String K-Special 문제 풀이 완료(20250621)
