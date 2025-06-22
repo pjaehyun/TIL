@@ -892,3 +892,4 @@
 - 2294\. Partition Array Such That Maximum Difference Is K 문제 풀이 완료(20250619)
 - 3443\. Maximum Manhattan Distance After K Changes 문제 풀이 완료(20250620)
 - 3085\. Minimum Deletions to Make String K-Special 문제 풀이 완료(20250621)
+- 2138\. Divide a String Into Groups of Size k 문제 풀이 완료(20250622)
