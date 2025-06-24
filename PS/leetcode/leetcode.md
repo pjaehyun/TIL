@@ -893,3 +893,5 @@
 - 3443\. Maximum Manhattan Distance After K Changes 문제 풀이 완료(20250620)
 - 3085\. Minimum Deletions to Make String K-Special 문제 풀이 완료(20250621)
 - 2138\. Divide a String Into Groups of Size k 문제 풀이 완료(20250622)
+- 2081\. Sum of k-Mirror Numbers 문제 풀이 완료(20250623)
+- 2200\. Find All K-Distant Indices in an Array 문제 풀이 완료(20250624)
