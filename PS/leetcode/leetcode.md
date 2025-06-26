@@ -896,3 +896,4 @@
 - 2081\. Sum of k-Mirror Numbers 문제 풀이 완료(20250623)
 - 2200\. Find All K-Distant Indices in an Array 문제 풀이 완료(20250624)
 - 2040\. Kth Smallest Product of Two Sorted Arrays 문제 풀이 완료(20250625)
+- 2311\. Longest Binary Subsequence Less Than or Equal to K 문제 풀이 완료(20250626)
