@@ -901,3 +901,4 @@
 - 2099\. Find Subsequence of Length K With the Largest Sum 문제 풀이 완료(20250629)
 - 594\. Longest Harmonious Subsequence 문제 풀이 완료(20250630)
 - 1695\. Maximum Erasure Value 문제 풀이 완료(20250722)
+- 2322\. Minimum Score After Removals on a Tree 문제 풀이 완료(20250724)
