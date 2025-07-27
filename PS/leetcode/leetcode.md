@@ -903,3 +903,4 @@
 - 1695\. Maximum Erasure Value 문제 풀이 완료(20250722)
 - 2322\. Minimum Score After Removals on a Tree 문제 풀이 완료(20250724)
 - 3487\. Maximum Unique Subarray Sum After Deletion 문제 풀이 완료(20250725)
+- 2210\. Count Hills and Valleys in an Array 문제 풀이 완료(20250727)
