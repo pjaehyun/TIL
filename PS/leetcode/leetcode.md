@@ -906,3 +906,4 @@
 - 2210\. Count Hills and Valleys in an Array 문제 풀이 완료(20250727)
 - 21\. Merge Two Sorted Lists 문제 풀이 완료(20250728)
 - 2411\. Smallest Subarrays With Maximum Bitwise OR 문제 풀이 완료(20250729)
+- 898\. Bitwise ORs of Subarrays 문제 풀이 완료(20250731)
