@@ -907,3 +907,4 @@
 - 21\. Merge Two Sorted Lists 문제 풀이 완료(20250728)
 - 2411\. Smallest Subarrays With Maximum Bitwise OR 문제 풀이 완료(20250729)
 - 898\. Bitwise ORs of Subarrays 문제 풀이 완료(20250731)
+- 66\. Plus One 문제 풀이 완료(20250801)
