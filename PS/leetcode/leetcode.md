@@ -909,3 +909,4 @@
 - 898\. Bitwise ORs of Subarrays 문제 풀이 완료(20250731)
 - 66\. Plus One 문제 풀이 완료(20250801)
 - 2561\. Rearranging Fruits 문제 풀이 완료(20250802)
+- 2106\. Maximum Fruits Harvested After at Most K Steps 문제 풀이 완료(20250803)
