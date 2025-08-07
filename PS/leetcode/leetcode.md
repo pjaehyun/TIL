@@ -912,3 +912,4 @@
 - 2106\. Maximum Fruits Harvested After at Most K Steps 문제 풀이 완료(20250803)
 - 3477\. Fruits Into Baskets II 문제 풀이 완료(20250805)
 - 3479\. Fruits Into Baskets III 문제 풀이 완료(20250806)
+- 3363\. Find the Maximum Number of Fruits Collected 문제 풀이 완료(20250807)
