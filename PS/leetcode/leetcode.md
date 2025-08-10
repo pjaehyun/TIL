@@ -915,3 +915,4 @@
 - 3363\. Find the Maximum Number of Fruits Collected 문제 풀이 완료(20250807)
 - 27\. Remove Element 문제 풀이 완료(20250808)
 - 69\. Sqrt(x) 문제 풀이 완료(20250809)
+- 869\. Reordered Power of 2 문제 풀이 완료(20250810)
