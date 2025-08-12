@@ -917,3 +917,4 @@
 - 69\. Sqrt(x) 문제 풀이 완료(20250809)
 - 869\. Reordered Power of 2 문제 풀이 완료(20250810)
 - 2438\. Range Product Queries of Powers 문제 풀이 완료(20250811)
+- 2787\. Ways to Express an Integer as Sum of Powers 문제 풀이 완료(20250812)
