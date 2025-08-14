@@ -919,3 +919,4 @@
 - 2438\. Range Product Queries of Powers 문제 풀이 완료(20250811)
 - 2787\. Ways to Express an Integer as Sum of Powers 문제 풀이 완료(20250812)
 - 326\. Power of Three 문제 풀이 완료(20250813)
+- 88\. Merge Sorted Array 문제 풀이 완료(20250814)
