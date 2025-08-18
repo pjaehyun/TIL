@@ -923,3 +923,4 @@
 - 125\. Valid Palindrome 문제 풀이 완료(20250815)
 - 160\. Intersection of Two Linked Lists 문제 풀이 완료(20250816)
 - 171\. Excel Sheet Column Number 문제 풀이 완료(20250817)
+- 679\. 24 Game 문제 풀이 완료(20250818)
