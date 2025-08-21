@@ -926,3 +926,4 @@
 - 679\. 24 Game 문제 풀이 완료(20250818)
 - 217\. Contains Duplicate 문제 풀이 완료(20250819)
 - 202\. Happy Number 문제 풀이 완료(20250820)
+- 1504\. Count Submatrices With All Ones 문제 풀이 완료(20250821)
