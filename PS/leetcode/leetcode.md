@@ -929,3 +929,4 @@
 - 1504\. Count Submatrices With All Ones 문제 풀이 완료(20250821)
 - 278\. First Bad Version 문제 풀이 완료(20250822)
 - 3197\. Find the Minimum Area to Cover All Ones II 문제 풀이 완료(20250823)
+- 283\. Move Zeroes 문제 풀이 완료(20250824)
