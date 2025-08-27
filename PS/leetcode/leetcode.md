@@ -932,3 +932,4 @@
 - 283\. Move Zeroes 문제 풀이 완료(20250824)
 - 367\. Valid Perfect Square 문제 풀이 완료(20250825)
 - 3000\. Maximum Area of Longest Diagonal Rectangle 문제 풀이 완료(20250826)
+- 3459\. Length of Longest V-Shaped Diagonal Segment 문제 풀이 완료(20250827)
