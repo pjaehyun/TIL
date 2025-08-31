@@ -936,3 +936,4 @@
 - 3446\. Sort Matrix by Diagonals 문제 풀이 완료(20250828)
 - 3021\. Alice and Bob Playing Flower Game 문제 풀이 완료(20250829)
 - 401\. Binary Watch 문제 풀이 완료(20250830)
+- 37\. Sudoku Solver 문제 풀이 완료(20250831)
