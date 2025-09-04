@@ -940,3 +940,4 @@
 - 383\. Ransom Note 문제 풀이 완료(20250901)
 - 3025\. Find the Number of Ways to Place People I 문제 풀이 완료(20250902)
 - 3027\. Find the Number of Ways to Place People II 문제 풀이 완료(20250903)
+- 3516\. Find Closest Person 문제 풀이 완료(20250904)
