@@ -943,3 +943,4 @@
 - 3516\. Find Closest Person 문제 풀이 완료(20250904)
 - 2749\. Minimum Operations to Make the Integer Zero 문제 풀이 완료(20250905)
 - 3495\. Minimum Operations to Make Array Elements Zero 문제 풀이 완료(20250906)
+- 1304\. Find N Unique Integers Sum up to Zero 문제 풀이 완료(20250907)
