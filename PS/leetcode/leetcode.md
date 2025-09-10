@@ -946,3 +946,4 @@
 - 1304\. Find N Unique Integers Sum up to Zero 문제 풀이 완료(20250907)
 - 1317\. Convert Integer to the Sum of Two No-Zero Integers 문제 풀이 완료(20250908)
 - 2327\. Number of People Aware of a Secret 문제 풀이 완료(20250909)
+- 1733\. Minimum Number of People to Teach 문제 풀이 완료(20250910)
