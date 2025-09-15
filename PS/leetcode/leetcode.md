@@ -951,3 +951,4 @@
 - 3227\. Vowels Game in a String 문제 풀이 완료(20250912)
 - 3541\. Find Most Frequent Vowel and Consonant 문제 풀이 완료(20250913)
 - 966\. Vowel Spellchecker 문제 풀이 완료(20250914)
+- 1935\. Maximum Number of Words You Can Type 문제 풀이 완료(20250915)
