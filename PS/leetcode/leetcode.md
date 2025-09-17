@@ -953,3 +953,4 @@
 - 966\. Vowel Spellchecker 문제 풀이 완료(20250914)
 - 1935\. Maximum Number of Words You Can Type 문제 풀이 완료(20250915)
 - 2197\. Replace Non-Coprime Numbers in Array 문제 풀이 완료(20250916)
+- 405\. Convert a Number to Hexadecimal 문제 풀이 완료(20250917)
