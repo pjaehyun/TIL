@@ -957,3 +957,4 @@
 - 3408\. Design Task Manager 문제 풀이 완료(20250918)
 - 3484\. Design Spreadsheet 문제 풀이 완료(20250919)
 - 3508\. Implement Router 문제 풀이 완료(20250920)
+- 1912\. Design Movie Rental System 문제 풀이 완료(20250921)
