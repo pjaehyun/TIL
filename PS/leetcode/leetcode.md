@@ -961,3 +961,4 @@
 - 292\. Nim Game 문제 풀이 완료(20250922)
 - 190\. Reverse Bits 문제 풀이 완료(20250923)
 - 203\. Remove Linked List Elements 문제 풀이 완료(20250924)
+- 412\. Fizz Buzz 문제 풀이 완료(20250925)
