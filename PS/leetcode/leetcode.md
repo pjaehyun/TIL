@@ -963,3 +963,4 @@
 - 203\. Remove Linked List Elements 문제 풀이 완료(20250924)
 - 412\. Fizz Buzz 문제 풀이 완료(20250925)
 - 414\. Third Maximum Number 문제 풀이 완료(20250926)
+- 257\. Binary Tree Paths 문제 풀이 완료(20250927)
