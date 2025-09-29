@@ -965,3 +965,4 @@
 - 414\. Third Maximum Number 문제 풀이 완료(20250926)
 - 257\. Binary Tree Paths 문제 풀이 완료(20250927)
 - 415\. Add Strings 문제 풀이 완료(20250928)
+- 441\. Arranging Coins 문제 풀이 완료(20250929)
