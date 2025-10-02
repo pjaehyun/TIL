@@ -968,3 +968,4 @@
 - 441\. Arranging Coins 문제 풀이 완료(20250929)
 - 448\. Find All Numbers Disappeared in an Array 문제 풀이 완료(20250930)
 - 461\. Hamming Distance 문제 풀이 완료(20251001)
+- 482\. License Key Formatting 문제 풀이 완료(20251002)
