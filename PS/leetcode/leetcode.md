@@ -971,3 +971,4 @@
 - 482\. License Key Formatting 문제 풀이 완료(20251002)
 - 485\. Max Consecutive Ones 문제 풀이 완료(20251003)
 - 492\. Construct the Rectangle 문제 풀이 완료(20251004)
+- 495\. Teemo Attacking 문제 풀이 완료(20251005)
