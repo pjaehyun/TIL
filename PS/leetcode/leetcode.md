@@ -973,3 +973,4 @@
 - 492\. Construct the Rectangle 문제 풀이 완료(20251004)
 - 495\. Teemo Attacking 문제 풀이 완료(20251005)
 - 496\. Next Greater Element I 문제 풀이 완료(20251006)
+- 500\. Keyboard Row 문제 풀이 완료(20251007)
