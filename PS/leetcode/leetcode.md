@@ -977,3 +977,4 @@
 - 504\. Base 7 문제 풀이 완료(20251008)
 - 507\. Perfect Number 문제 풀이 완료(20251009)
 - 521\. Longest Uncommon Subsequence I 문제 풀이 완료(20251010)
+- 3186\. Maximum Total Damage With Spell Casting 문제 풀이 완료(20251011)
