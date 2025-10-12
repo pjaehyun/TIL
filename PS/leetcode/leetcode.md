@@ -978,3 +978,4 @@
 - 507\. Perfect Number 문제 풀이 완료(20251009)
 - 521\. Longest Uncommon Subsequence I 문제 풀이 완료(20251010)
 - 3186\. Maximum Total Damage With Spell Casting 문제 풀이 완료(20251011)
+- 3539\. Find Sum of Array Product of Magical Sequences 문제 풀이 완료(20251012)
