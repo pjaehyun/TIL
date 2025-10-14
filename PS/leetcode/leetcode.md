@@ -980,3 +980,4 @@
 - 3186\. Maximum Total Damage With Spell Casting 문제 풀이 완료(20251011)
 - 3539\. Find Sum of Array Product of Magical Sequences 문제 풀이 완료(20251012)
 - 2273\. Find Resultant Array After Removing Anagrams 문제 풀이 완료(20251013)
+- 3349\. Adjacent Increasing Subarrays Detection I 문제 풀이 완료(20251014)
