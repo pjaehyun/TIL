@@ -981,3 +981,4 @@
 - 3539\. Find Sum of Array Product of Magical Sequences 문제 풀이 완료(20251012)
 - 2273\. Find Resultant Array After Removing Anagrams 문제 풀이 완료(20251013)
 - 3349\. Adjacent Increasing Subarrays Detection I 문제 풀이 완료(20251014)
+- 3350\. Adjacent Increasing Subarrays Detection II 문제 풀이 완료(20251015)
