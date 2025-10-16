@@ -982,3 +982,4 @@
 - 2273\. Find Resultant Array After Removing Anagrams 문제 풀이 완료(20251013)
 - 3349\. Adjacent Increasing Subarrays Detection I 문제 풀이 완료(20251014)
 - 3350\. Adjacent Increasing Subarrays Detection II 문제 풀이 완료(20251015)
+- 2598\. Smallest Missing Non-negative Integer After Operations 문제 풀이 완료(20251016)
