@@ -1,33 +1,58 @@
 import sys
+import copy
 from collections import defaultdict, deque
 input = sys.stdin.readline
 
-n, k = map(int, input().split())
+n, m = map(int, input().split())
 
 graph = [list(map(int, input().split())) for _ in range(n)]
 
-s, xx, yy = map(int, input().split())
+nesw = [(-1,0), (0,1), (1,0), (0,-1)]
 
+dirs = {
+    1:[[0], [1], [2], [3]],
+    2:[[1, 3], [0, 2]],
+    3:[[0,1],[1,2],[2,3],[3,0]],
+    4:[[0,1,2], [1,2,3], [2,3,0], [3,0,1]],
+    5:[[0,1,2,3]]
+}
 
-start = []
-
+cctv = []
 for i in range(n):
-    for j in range(n):
-        if graph[i][j] != 0:
-            start.append((graph[i][j], i, j))
-start.sort()
+    for j in range(m):
+        if 0 < graph[i][j] < 6:
+            cctv.append((i, j, graph[i][j]))
 
-dq = deque(start)
-time = 0
-while dq:
-    if time == s:
-        break
+def sight(road, ds, x, y):
+    for d in ds:
+        nx, ny = x, y
+        while True:
+            nx += nesw[d][0]
+            ny += nesw[d][1]
+            if nx < 0 or nx >= n or ny < 0 or ny >= m or road[nx][ny] == 6: break
+            if road[nx][ny] == 0:
+                road[nx][ny] = -1
 
-    for _ in range(len(dq)):
-        virus, x, y = dq.popleft()
-        for nx, ny in [(x+1,y),(x,y+1),(x-1,y),(x,y-1)]:
-            if 0<=nx<n and 0<=ny<n and graph[nx][ny] == 0:
-                graph[nx][ny] = virus
-                dq.append((virus, nx, ny))
-    time += 1
-print(graph[xx-1][yy-1])
+                
+
+answer = float('inf')
+
+def dfs(count, road):
+    global answer
+    if count == len(cctv):
+        blind = 0
+        for r in road:
+            blind += r.count(0)
+        answer = min(answer, blind)
+        return
+
+    temp = copy.deepcopy(road)
+    x, y, c = cctv[count]
+
+    for ds in dirs[c]:
+        sight(temp, ds, x, y)
+        dfs(count+1, temp)
+        temp = copy.deepcopy(road)
+dfs(0, graph)
+
+print(answer)
