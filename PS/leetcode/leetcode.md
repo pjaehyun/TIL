@@ -984,3 +984,4 @@
 - 3350\. Adjacent Increasing Subarrays Detection II 문제 풀이 완료(20251015)
 - 2598\. Smallest Missing Non-negative Integer After Operations 문제 풀이 완료(20251016)
 - 3003\. Maximize the Number of Partitions After Operations 문제 풀이 완료(20251017)
+- 3346\. Maximum Frequency of an Element After Performing Operations I 문제 풀이 완료(20251021)
