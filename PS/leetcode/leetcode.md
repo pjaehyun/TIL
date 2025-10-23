@@ -986,3 +986,4 @@
 - 3003\. Maximize the Number of Partitions After Operations 문제 풀이 완료(20251017)
 - 3346\. Maximum Frequency of an Element After Performing Operations I 문제 풀이 완료(20251021)
 - 3347\. Maximum Frequency of an Element After Performing Operations II 문제 풀이 완료(20251022)
+- 3461\. Check If Digits Are Equal in String After Operations I 문제 풀이 완료(20251023)
