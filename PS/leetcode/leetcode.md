@@ -988,3 +988,4 @@
 - 3347\. Maximum Frequency of an Element After Performing Operations II 문제 풀이 완료(20251022)
 - 3461\. Check If Digits Are Equal in String After Operations I 문제 풀이 완료(20251023)
 - 2048\. Next Greater Numerically Balanced Number 문제 풀이 완료(20251024)
+- 2043\. Simple Bank System 문제 풀이 완료(20251026)
