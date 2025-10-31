@@ -992,3 +992,4 @@
 - 3354\. Make Array Elements Equal to Zero 문제 풀이 완료(20251028)
 - 3370\. Smallest Number With All Set Bits 문제 풀이 완료(20251029)
 - 1526\. Minimum Number of Increments on Subarrays to Form a Target Array 문제 풀이 완료(20251030)
+- 3289\. The Two Sneaky Numbers of Digitville 문제 풀이 완료(20251031)
