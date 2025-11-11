@@ -998,3 +998,4 @@
 - 2528\. Maximize the Minimum Powered City 문제 풀이 완료(20251107)
 - 2169\. Count Operations to Obtain Zero 문제 풀이 완료(20251109)
 - 3542\. Minimum Operations to Convert All Elements to Zero 문제 풀이 완료(20251110)
+- 474\. Ones and Zeroes 문제 풀이 완료(20251111)
