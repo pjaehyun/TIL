@@ -999,3 +999,4 @@
 - 2169\. Count Operations to Obtain Zero 문제 풀이 완료(20251109)
 - 3542\. Minimum Operations to Convert All Elements to Zero 문제 풀이 완료(20251110)
 - 474\. Ones and Zeroes 문제 풀이 완료(20251111)
+- 2654\. Minimum Number of Operations to Make All Array Elements Equal to 1 문제 풀이 완료(20251112)
