@@ -1001,3 +1001,4 @@
 - 474\. Ones and Zeroes 문제 풀이 완료(20251111)
 - 2654\. Minimum Number of Operations to Make All Array Elements Equal to 1 문제 풀이 완료(20251112)
 - 3228\. Maximum Number of Operations to Move Ones to the End 문제 풀이 완료(20251113)
+- 2536\. Increment Submatrices by One 문제 풀이 완료(20251114)
