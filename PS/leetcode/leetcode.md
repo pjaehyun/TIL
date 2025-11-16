@@ -1003,3 +1003,4 @@
 - 3228\. Maximum Number of Operations to Move Ones to the End 문제 풀이 완료(20251113)
 - 2536\. Increment Submatrices by One 문제 풀이 완료(20251114)
 - 3234\. Count the Number of Substrings With Dominant Ones 문제 풀이 완료(20251115)
+- 1513\. Number of Substrings With Only 1s 문제 풀이 완료(20251116)
