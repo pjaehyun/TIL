@@ -1008,3 +1008,4 @@
 - 717\. 1-bit and 2-bit Characters 문제 풀이 완료(20251118)
 - 2154\. Keep Multiplying Found Values by Two 문제 풀이 완료(20251119)
 - 757\. Set Intersection Size At Least Two 문제 풀이 완료(20251120)
+- 3190\. Find Minimum Operations to Make All Elements Divisible by Three 문제 풀이 완료(20251122)
