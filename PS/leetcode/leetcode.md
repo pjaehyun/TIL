@@ -1011,3 +1011,4 @@
 - 3190\. Find Minimum Operations to Make All Elements Divisible by Three 문제 풀이 완료(20251122)
 - 1262\. Greatest Sum Divisible by Three 문제 풀이 완료(20251123)
 - 1018\. Binary Prefix Divisible By 5 문제 풀이 완료(20251124)
+- 1015\. Smallest Integer Divisible by K 문제 풀이 완료(20251125)
