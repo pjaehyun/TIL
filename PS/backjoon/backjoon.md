@@ -380,6 +380,7 @@
 - 26316\. Jumping Frog 문제 풀이 완료(20251121)
 - 12723\. Minimum Scalar Product (Small) 문제 풀이 완료(20251122)
 - 10657\. Cow Jog 문제 풀이 완료(20251122)
+- 26529\. Bunnies 문제 풀이 완료(20251125)
 - 15841\. Virus Outbreak 문제 풀이 완료(20251126)
 - 14536\. Bricks on the Wall 문제 풀이 완료(20251126)
 - 24511\. queuestack 문제 풀이 완료(20251126)

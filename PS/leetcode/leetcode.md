@@ -1012,5 +1012,4 @@
 - 1262\. Greatest Sum Divisible by Three 문제 풀이 완료(20251123)
 - 1018\. Binary Prefix Divisible By 5 문제 풀이 완료(20251124)
 - 1015\. Smallest Integer Divisible by K 문제 풀이 완료(20251125)
-- 26529\. Bunnies 문제 풀이 완료(20251125)
 - 3381\. Maximum Subarray Sum With Length Divisible by K 문제 풀이 완료(20251127)
