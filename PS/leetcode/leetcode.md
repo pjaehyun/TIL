@@ -1013,3 +1013,4 @@
 - 1018\. Binary Prefix Divisible By 5 문제 풀이 완료(20251124)
 - 1015\. Smallest Integer Divisible by K 문제 풀이 완료(20251125)
 - 3381\. Maximum Subarray Sum With Length Divisible by K 문제 풀이 완료(20251127)
+- 3512\. Minimum Operations to Make Array Sum Divisible by K 문제 풀이 완료(20251129)
