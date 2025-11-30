@@ -1014,3 +1014,4 @@
 - 1015\. Smallest Integer Divisible by K 문제 풀이 완료(20251125)
 - 3381\. Maximum Subarray Sum With Length Divisible by K 문제 풀이 완료(20251127)
 - 3512\. Minimum Operations to Make Array Sum Divisible by K 문제 풀이 완료(20251129)
+- 1590\. Make Sum Divisible by P 문제 풀이 완료(20251130)
