@@ -1016,3 +1016,4 @@
 - 3512\. Minimum Operations to Make Array Sum Divisible by K 문제 풀이 완료(20251129)
 - 1590\. Make Sum Divisible by P 문제 풀이 완료(20251130)
 - 3623\. Count Number of Trapezoids I 문제 풀이 완료(20251202)
+- 3625\. Count Number of Trapezoids II 문제 풀이 완료(20251203)
