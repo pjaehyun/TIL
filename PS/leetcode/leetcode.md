@@ -1019,3 +1019,4 @@
 - 3625\. Count Number of Trapezoids II 문제 풀이 완료(20251203)
 - 2211\. Count Collisions on a Road 문제 풀이 완료(20251204)
 - 3432\. Count Partitions with Even Sum Difference 문제 풀이 완료(20251205)
+- 3578\. Count Partitions With Max-Min Difference at Most K 문제 풀이 완료(20251206)
