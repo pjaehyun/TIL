@@ -1020,3 +1020,4 @@
 - 2211\. Count Collisions on a Road 문제 풀이 완료(20251204)
 - 3432\. Count Partitions with Even Sum Difference 문제 풀이 완료(20251205)
 - 3578\. Count Partitions With Max-Min Difference at Most K 문제 풀이 완료(20251206)
+- 1925\. Count Square Sum Triples 문제 풀이 완료(20251208)
