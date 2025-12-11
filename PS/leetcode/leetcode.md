@@ -1023,3 +1023,4 @@
 - 1925\. Count Square Sum Triples 문제 풀이 완료(20251208)
 - 3583\. Count Special Triplets 문제 풀이 완료(20251209)
 - 3577\. Count the Number of Computer Unlocking Permutations 문제 풀이 완료(20251210)
+- 3531\. Count Covered Buildings 문제 풀이 완료(20251211)
