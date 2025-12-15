@@ -1026,3 +1026,4 @@
 - 3531\. Count Covered Buildings 문제 풀이 완료(20251211)
 - 3433\. Count Mentions Per User 문제 풀이 완료(20251212)
 - 3606\. Coupon Code Validator 문제 풀이 완료(20251213)
+- 2110\. Number of Smooth Descent Periods of a Stock 문제 풀이 완료(20251215)
