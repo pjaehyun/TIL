@@ -1027,3 +1027,4 @@
 - 3433\. Count Mentions Per User 문제 풀이 완료(20251212)
 - 3606\. Coupon Code Validator 문제 풀이 완료(20251213)
 - 2110\. Number of Smooth Descent Periods of a Stock 문제 풀이 완료(20251215)
+- 3562\. Maximum Profit from Trading Stocks with Discounts 문제 풀이 완료(20251216)
