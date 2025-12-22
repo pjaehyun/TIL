@@ -1031,3 +1031,4 @@
 - 3573\. Best Time to Buy and Sell Stock V 문제 풀이 완료(20251217)
 - 3652\. Best Time to Buy and Sell Stock using Strategy 문제 풀이 완료(20251218)
 - 955\. Delete Columns to Make Sorted II 문제 풀이 완료(20251221)
+- 960\. Delete Columns to Make Sorted III 문제 풀이 완료(20251222)
