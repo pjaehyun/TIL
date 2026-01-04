@@ -1035,3 +1035,4 @@
 - 3074\. Apple Redistribution into Boxes 문제 풀이 완료(20251224)
 - 961\. N-Repeated Element in Size 2N Array 문제 풀이 완료(20260102)
 - 1411\. Number of Ways to Paint N × 3 Grid 문제 풀이 완료(20260103)
+- 1390\. Four Divisors 문제 풀이 완료(20260104)
