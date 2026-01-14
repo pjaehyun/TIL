@@ -1038,3 +1038,4 @@
 - 1390\. Four Divisors 문제 풀이 완료(20260104)
 - 865\. Smallest Subtree with all the Deepest Nodes 문제 풀이 완료(20260109)
 - 3453\. Separate Squares I 문제 풀이 완료(20260113)
+- 3454\. Separate Squares II 문제 풀이 완료(20260114)
