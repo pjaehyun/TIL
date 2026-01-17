@@ -1041,3 +1041,4 @@
 - 3454\. Separate Squares II 문제 풀이 완료(20260114)
 - 2943\. Maximize Area of Square Hole in Grid 문제 풀이 완료(20260115)
 - 2975\. Maximum Square Area by Removing Fences From a Field 문제 풀이 완료(20260116)
+- 3047\. Find the Largest Area of Square Inside Two Rectangles 문제 풀이 완료(20260117)
