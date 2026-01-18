@@ -1042,3 +1042,4 @@
 - 2943\. Maximize Area of Square Hole in Grid 문제 풀이 완료(20260115)
 - 2975\. Maximum Square Area by Removing Fences From a Field 문제 풀이 완료(20260116)
 - 3047\. Find the Largest Area of Square Inside Two Rectangles 문제 풀이 완료(20260117)
+- 1895\. Largest Magic Square 문제 풀이 완료(20260118)
