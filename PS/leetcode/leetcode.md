@@ -1043,3 +1043,4 @@
 - 2975\. Maximum Square Area by Removing Fences From a Field 문제 풀이 완료(20260116)
 - 3047\. Find the Largest Area of Square Inside Two Rectangles 문제 풀이 완료(20260117)
 - 1895\. Largest Magic Square 문제 풀이 완료(20260118)
+- 1292\. Maximum Side Length of a Square with Sum Less than or Equal to Threshold 문제 풀이 완료(20260126)
