@@ -1045,3 +1045,4 @@
 - 1895\. Largest Magic Square 문제 풀이 완료(20260118)
 - 1292\. Maximum Side Length of a Square with Sum Less than or Equal to Threshold 문제 풀이 완료(20260119)
 - 3314\. Construct the Minimum Bitwise Array I 문제 풀이 완료(20260120)
+- 3315\. Construct the Minimum Bitwise Array II 문제 풀이 완료(20260121)
