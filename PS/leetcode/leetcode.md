@@ -1048,3 +1048,4 @@
 - 3315\. Construct the Minimum Bitwise Array II 문제 풀이 완료(20260121)
 - 3507\. Minimum Pair Removal to Sort Array I 문제 풀이 완료(20260122)
 - 3510\. Minimum Pair Removal to Sort Array II 문제 풀이 완료(20260123)
+- 1984\. Minimum Difference Between Highest and Lowest of K Scores 문제 풀이 완료(20260125)
