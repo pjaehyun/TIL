@@ -1050,3 +1050,4 @@
 - 3510\. Minimum Pair Removal to Sort Array II 문제 풀이 완료(20260123)
 - 1984\. Minimum Difference Between Highest and Lowest of K Scores 문제 풀이 완료(20260125)
 - 1200\. Minimum Absolute Difference 문제 풀이 완료(20260126)
+- 3650\. Minimum Cost Path with Edge Reversals 문제 풀이 완료(20260127)
