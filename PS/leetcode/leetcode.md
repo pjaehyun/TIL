@@ -1059,3 +1059,4 @@
 - 3640\. Trionic Array II 문제 풀이 완료(20260204)
 - 3379\. Transformed Array 문제 풀이 완료(20260205)
 - 3634\. Minimum Removals to Balance Array 문제 풀이 완료(20260206)
+- 3719\. Longest Balanced Subarray I 문제 풀이 완료(20260210)
