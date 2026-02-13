@@ -1062,3 +1062,4 @@
 - 3719\. Longest Balanced Subarray I 문제 풀이 완료(20260210)
 - 3721\. Longest Balanced Subarray II 문제 풀이 완료(20260211)
 - 3713\. Longest Balanced Substring I 문제 풀이 완료(20260212)
+- 3714\. Longest Balanced Substring II 문제 풀이 완료(20260213)
